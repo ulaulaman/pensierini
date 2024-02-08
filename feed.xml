@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Pensierini di prova</title>
+    <link href="https://ulaulaman.github.io/pensierini-prova/feed.xml" rel="self" />
+    <link href="https://ulaulaman.github.io/pensierini-prova" />
+    <updated>2024-02-08T01:48:11+01:00</updated>
+    <author>
+        <name>ulaulaman</name>
+    </author>
+    <id>https://ulaulaman.github.io/pensierini-prova</id>
+
+    <entry>
+        <title>Primo post di prova</title>
+        <author>
+            <name>ulaulaman</name>
+        </author>
+        <link href="https://ulaulaman.github.io/pensierini-prova/primo-post-di-prova.html"/>
+        <id>https://ulaulaman.github.io/pensierini-prova/primo-post-di-prova.html</id>
+
+        <updated>2024-02-08T01:48:11+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Un primo post di prova per verificare che il sito venga aggiornato!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Un primo post di prova per <em>verificare</em> che il <strong>sito</strong> venga aggiornato!</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pensierini di prova",
+    "description": "",
+    "home_page_url": "https://ulaulaman.github.io/pensierini-prova",
+    "feed_url": "https://ulaulaman.github.io/pensierini-prova/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ulaulaman"
+    },
+    "items": [
+        {
+            "id": "https://ulaulaman.github.io/pensierini-prova/primo-post-di-prova.html",
+            "url": "https://ulaulaman.github.io/pensierini-prova/primo-post-di-prova.html",
+            "title": "Primo post di prova",
+            "summary": "Un primo post di prova per verificare che il sito venga aggiornato!",
+            "content_html": "<p>Un primo post di prova per <em>verificare</em> che il <strong>sito</strong> venga aggiornato!</p>\n",
+            "author": {
+                "name": "ulaulaman"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-07T00:57:00+01:00",
+            "date_modified": "2024-02-08T01:48:11+01:00"
+        }
+    ]
+}
