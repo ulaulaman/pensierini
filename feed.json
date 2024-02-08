@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://ulaulaman.github.io/pensierini-prova/nuova-divagazione.html",
+            "url": "https://ulaulaman.github.io/pensierini-prova/nuova-divagazione.html",
+            "title": "Nuova divagazione",
+            "summary": "Scriviamo qualcosa per poi fare un aggiornamento del sito sul suo repository github.",
+            "content_html": "<p>Scriviamo qualcosa per poi fare un aggiornamento del sito sul suo <em>repository</em> github.</p>\n",
+            "author": {
+                "name": "ulaulaman"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-08T02:02:59+01:00",
+            "date_modified": "2024-02-08T02:02:59+01:00"
+        },
+        {
             "id": "https://ulaulaman.github.io/pensierini-prova/primo-post-di-prova.html",
             "url": "https://ulaulaman.github.io/pensierini-prova/primo-post-di-prova.html",
             "title": "Primo post di prova",
