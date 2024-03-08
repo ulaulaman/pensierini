@@ -3,12 +3,32 @@
     <title>Pensierini di prova</title>
     <link href="https://ulaulaman.github.io/pensierini-prova/feed.xml" rel="self" />
     <link href="https://ulaulaman.github.io/pensierini-prova" />
-    <updated>2024-02-08T02:02:59+01:00</updated>
+    <updated>2024-03-08T15:09:31+01:00</updated>
     <author>
         <name>ulaulaman</name>
     </author>
     <id>https://ulaulaman.github.io/pensierini-prova</id>
 
+    <entry>
+        <title>Nuova prova githubica</title>
+        <author>
+            <name>ulaulaman</name>
+        </author>
+        <link href="https://ulaulaman.github.io/pensierini-prova/nuova-prova-githubica.html"/>
+        <id>https://ulaulaman.github.io/pensierini-prova/nuova-prova-githubica.html</id>
+
+        <updated>2024-03-08T15:09:31+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Provo a scrivere e pubblicare un nuovo post per github e sincronizzarlo. Se va probabilmente spostero qui un po’ di cose (cambiando nome del repository e altre cosettine varie)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Provo a scrivere e pubblicare un nuovo post per github e sincronizzarlo. Se va probabilmente spostero qui un po’ di cose (cambiando nome del <em>repository</em> e altre cosettine varie)</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Nuova divagazione</title>
         <author>

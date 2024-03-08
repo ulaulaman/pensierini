@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://ulaulaman.github.io/pensierini-prova/nuova-prova-githubica.html",
+            "url": "https://ulaulaman.github.io/pensierini-prova/nuova-prova-githubica.html",
+            "title": "Nuova prova githubica",
+            "summary": "Provo a scrivere e pubblicare un nuovo post per github e sincronizzarlo. Se va probabilmente spostero qui un po’ di cose (cambiando nome del repository e altre cosettine varie)",
+            "content_html": "<p>Provo a scrivere e pubblicare un nuovo post per github e sincronizzarlo. Se va probabilmente spostero qui un po’ di cose (cambiando nome del <em>repository</em> e altre cosettine varie)</p>",
+            "author": {
+                "name": "ulaulaman"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-08T15:09:31+01:00",
+            "date_modified": "2024-03-08T15:09:31+01:00"
+        },
+        {
             "id": "https://ulaulaman.github.io/pensierini-prova/nuova-divagazione.html",
             "url": "https://ulaulaman.github.io/pensierini-prova/nuova-divagazione.html",
             "title": "Nuova divagazione",
