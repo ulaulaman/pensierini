@@ -26,7 +26,6 @@
         <content type="html">
             <![CDATA[
                 <p>Scriviamo qualcosa per poi fare un aggiornamento del sito sul suo <em>repository</em> github.</p>
-
             ]]>
         </content>
     </entry>
@@ -38,7 +37,7 @@
         <link href="https://ulaulaman.github.io/pensierini-prova/primo-post-di-prova.html"/>
         <id>https://ulaulaman.github.io/pensierini-prova/primo-post-di-prova.html</id>
 
-        <updated>2024-02-08T01:48:11+01:00</updated>
+        <updated>2024-02-07T00:57:00+01:00</updated>
             <summary>
                 <![CDATA[
                     Un primo post di prova per verificare che il sito venga aggiornato!
@@ -47,7 +46,6 @@
         <content type="html">
             <![CDATA[
                 <p>Un primo post di prova per <em>verificare</em> che il <strong>sito</strong> venga aggiornato!</p>
-
             ]]>
         </content>
     </entry>

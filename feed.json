@@ -14,7 +14,7 @@
             "url": "https://ulaulaman.github.io/pensierini-prova/nuova-divagazione.html",
             "title": "Nuova divagazione",
             "summary": "Scriviamo qualcosa per poi fare un aggiornamento del sito sul suo repository github.",
-            "content_html": "<p>Scriviamo qualcosa per poi fare un aggiornamento del sito sul suo <em>repository</em> github.</p>\n",
+            "content_html": "<p>Scriviamo qualcosa per poi fare un aggiornamento del sito sul suo <em>repository</em> github.</p>",
             "author": {
                 "name": "ulaulaman"
             },
@@ -28,7 +28,7 @@
             "url": "https://ulaulaman.github.io/pensierini-prova/primo-post-di-prova.html",
             "title": "Primo post di prova",
             "summary": "Un primo post di prova per verificare che il sito venga aggiornato!",
-            "content_html": "<p>Un primo post di prova per <em>verificare</em> che il <strong>sito</strong> venga aggiornato!</p>\n",
+            "content_html": "<p>Un primo post di prova per <em>verificare</em> che il <strong>sito</strong> venga aggiornato!</p>",
             "author": {
                 "name": "ulaulaman"
             },
