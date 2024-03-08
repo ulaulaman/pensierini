@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Pensierini di prova</title>
-    <link href="https://ulaulaman.github.io/pensierini-prova/feed.xml" rel="self" />
-    <link href="https://ulaulaman.github.io/pensierini-prova" />
-    <updated>2024-03-08T15:09:31+01:00</updated>
+    <link href="https://ulaulaman.github.io/pensierini/feed.xml" rel="self" />
+    <link href="https://ulaulaman.github.io/pensierini" />
+    <updated>2024-03-08T16:00:04+01:00</updated>
     <author>
         <name>ulaulaman</name>
     </author>
-    <id>https://ulaulaman.github.io/pensierini-prova</id>
+    <id>https://ulaulaman.github.io/pensierini</id>
 
+    <entry>
+        <title>Prova dopo rinomina</title>
+        <author>
+            <name>ulaulaman</name>
+        </author>
+        <link href="https://ulaulaman.github.io/pensierini/prova-dopo-rinomina.html"/>
+        <id>https://ulaulaman.github.io/pensierini/prova-dopo-rinomina.html</id>
+
+        <updated>2024-03-08T16:00:04+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Prova per verificare il corretto aggiornamento dopo la rinomina del repository.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Prova per verificare il corretto aggiornamento dopo la rinomina del <em>repository</em>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Nuova prova githubica</title>
         <author>
             <name>ulaulaman</name>
         </author>
-        <link href="https://ulaulaman.github.io/pensierini-prova/nuova-prova-githubica.html"/>
-        <id>https://ulaulaman.github.io/pensierini-prova/nuova-prova-githubica.html</id>
+        <link href="https://ulaulaman.github.io/pensierini/nuova-prova-githubica.html"/>
+        <id>https://ulaulaman.github.io/pensierini/nuova-prova-githubica.html</id>
 
         <updated>2024-03-08T15:09:31+01:00</updated>
             <summary>
@@ -34,8 +54,8 @@
         <author>
             <name>ulaulaman</name>
         </author>
-        <link href="https://ulaulaman.github.io/pensierini-prova/nuova-divagazione.html"/>
-        <id>https://ulaulaman.github.io/pensierini-prova/nuova-divagazione.html</id>
+        <link href="https://ulaulaman.github.io/pensierini/nuova-divagazione.html"/>
+        <id>https://ulaulaman.github.io/pensierini/nuova-divagazione.html</id>
 
         <updated>2024-02-08T02:02:59+01:00</updated>
             <summary>
@@ -54,8 +74,8 @@
         <author>
             <name>ulaulaman</name>
         </author>
-        <link href="https://ulaulaman.github.io/pensierini-prova/primo-post-di-prova.html"/>
-        <id>https://ulaulaman.github.io/pensierini-prova/primo-post-di-prova.html</id>
+        <link href="https://ulaulaman.github.io/pensierini/primo-post-di-prova.html"/>
+        <id>https://ulaulaman.github.io/pensierini/primo-post-di-prova.html</id>
 
         <updated>2024-02-07T00:57:00+01:00</updated>
             <summary>

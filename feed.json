@@ -2,16 +2,30 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Pensierini di prova",
     "description": "",
-    "home_page_url": "https://ulaulaman.github.io/pensierini-prova",
-    "feed_url": "https://ulaulaman.github.io/pensierini-prova/feed.json",
+    "home_page_url": "https://ulaulaman.github.io/pensierini",
+    "feed_url": "https://ulaulaman.github.io/pensierini/feed.json",
     "user_comment": "",
     "author": {
         "name": "ulaulaman"
     },
     "items": [
         {
-            "id": "https://ulaulaman.github.io/pensierini-prova/nuova-prova-githubica.html",
-            "url": "https://ulaulaman.github.io/pensierini-prova/nuova-prova-githubica.html",
+            "id": "https://ulaulaman.github.io/pensierini/prova-dopo-rinomina.html",
+            "url": "https://ulaulaman.github.io/pensierini/prova-dopo-rinomina.html",
+            "title": "Prova dopo rinomina",
+            "summary": "Prova per verificare il corretto aggiornamento dopo la rinomina del repository.",
+            "content_html": "<p>Prova per verificare il corretto aggiornamento dopo la rinomina del <em>repository</em>.</p>",
+            "author": {
+                "name": "ulaulaman"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-08T16:00:04+01:00",
+            "date_modified": "2024-03-08T16:00:04+01:00"
+        },
+        {
+            "id": "https://ulaulaman.github.io/pensierini/nuova-prova-githubica.html",
+            "url": "https://ulaulaman.github.io/pensierini/nuova-prova-githubica.html",
             "title": "Nuova prova githubica",
             "summary": "Provo a scrivere e pubblicare un nuovo post per github e sincronizzarlo. Se va probabilmente spostero qui un po’ di cose (cambiando nome del repository e altre cosettine varie)",
             "content_html": "<p>Provo a scrivere e pubblicare un nuovo post per github e sincronizzarlo. Se va probabilmente spostero qui un po’ di cose (cambiando nome del <em>repository</em> e altre cosettine varie)</p>",
@@ -24,8 +38,8 @@
             "date_modified": "2024-03-08T15:09:31+01:00"
         },
         {
-            "id": "https://ulaulaman.github.io/pensierini-prova/nuova-divagazione.html",
-            "url": "https://ulaulaman.github.io/pensierini-prova/nuova-divagazione.html",
+            "id": "https://ulaulaman.github.io/pensierini/nuova-divagazione.html",
+            "url": "https://ulaulaman.github.io/pensierini/nuova-divagazione.html",
             "title": "Nuova divagazione",
             "summary": "Scriviamo qualcosa per poi fare un aggiornamento del sito sul suo repository github.",
             "content_html": "<p>Scriviamo qualcosa per poi fare un aggiornamento del sito sul suo <em>repository</em> github.</p>",
@@ -38,8 +52,8 @@
             "date_modified": "2024-02-08T02:02:59+01:00"
         },
         {
-            "id": "https://ulaulaman.github.io/pensierini-prova/primo-post-di-prova.html",
-            "url": "https://ulaulaman.github.io/pensierini-prova/primo-post-di-prova.html",
+            "id": "https://ulaulaman.github.io/pensierini/primo-post-di-prova.html",
+            "url": "https://ulaulaman.github.io/pensierini/primo-post-di-prova.html",
             "title": "Primo post di prova",
             "summary": "Un primo post di prova per verificare che il sito venga aggiornato!",
             "content_html": "<p>Un primo post di prova per <em>verificare</em> che il <strong>sito</strong> venga aggiornato!</p>",

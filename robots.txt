@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ulaulaman.github.io/pensierini-prova/sitemap.xml
+Sitemap: https://ulaulaman.github.io/pensierini/sitemap.xml

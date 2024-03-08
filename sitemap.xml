@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://ulaulaman.github.io/pensierini-prova/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://ulaulaman.github.io/pensierini/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://ulaulaman.github.io/pensierini-prova/</loc>
+<loc>https://ulaulaman.github.io/pensierini/</loc>
 </url>
 <url>
-<loc>https://ulaulaman.github.io/pensierini-prova/nuova-divagazione.html</loc>
+<loc>https://ulaulaman.github.io/pensierini/nuova-divagazione.html</loc>
 <lastmod>2024-02-08T02:02:59+01:00</lastmod>
 </url>
 <url>
-<loc>https://ulaulaman.github.io/pensierini-prova/nuova-prova-githubica.html</loc>
+<loc>https://ulaulaman.github.io/pensierini/nuova-prova-githubica.html</loc>
 <lastmod>2024-03-08T15:09:31+01:00</lastmod>
 </url>
 <url>
-<loc>https://ulaulaman.github.io/pensierini-prova/primo-post-di-prova.html</loc>
+<loc>https://ulaulaman.github.io/pensierini/primo-post-di-prova.html</loc>
 <lastmod>2024-02-08T01:48:11+01:00</lastmod>
+</url>
+<url>
+<loc>https://ulaulaman.github.io/pensierini/prova-dopo-rinomina.html</loc>
+<lastmod>2024-03-08T16:00:04+01:00</lastmod>
 </url>
 </urlset>
