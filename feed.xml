@@ -1,91 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Pensierini di prova</title>
+    <title>Pensierini dal webbe</title>
     <link href="https://ulaulaman.github.io/pensierini/feed.xml" rel="self" />
     <link href="https://ulaulaman.github.io/pensierini" />
-    <updated>2024-03-08T16:00:04+01:00</updated>
+    <updated>2024-03-09T21:26:27+01:00</updated>
     <author>
         <name>ulaulaman</name>
     </author>
     <id>https://ulaulaman.github.io/pensierini</id>
 
     <entry>
-        <title>Prova dopo rinomina</title>
-        <author>
-            <name>ulaulaman</name>
-        </author>
-        <link href="https://ulaulaman.github.io/pensierini/prova-dopo-rinomina.html"/>
-        <id>https://ulaulaman.github.io/pensierini/prova-dopo-rinomina.html</id>
-
-        <updated>2024-03-08T16:00:04+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Prova per verificare il corretto aggiornamento dopo la rinomina del repository.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Prova per verificare il corretto aggiornamento dopo la rinomina del <em>repository</em>.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Nuova prova githubica</title>
-        <author>
-            <name>ulaulaman</name>
-        </author>
-        <link href="https://ulaulaman.github.io/pensierini/nuova-prova-githubica.html"/>
-        <id>https://ulaulaman.github.io/pensierini/nuova-prova-githubica.html</id>
-
-        <updated>2024-03-08T15:09:31+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Provo a scrivere e pubblicare un nuovo post per github e sincronizzarlo. Se va probabilmente spostero qui un po’ di cose (cambiando nome del repository e altre cosettine varie)
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Provo a scrivere e pubblicare un nuovo post per github e sincronizzarlo. Se va probabilmente spostero qui un po’ di cose (cambiando nome del <em>repository</em> e altre cosettine varie)</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Nuova divagazione</title>
-        <author>
-            <name>ulaulaman</name>
-        </author>
-        <link href="https://ulaulaman.github.io/pensierini/nuova-divagazione.html"/>
-        <id>https://ulaulaman.github.io/pensierini/nuova-divagazione.html</id>
-
-        <updated>2024-02-08T02:02:59+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Scriviamo qualcosa per poi fare un aggiornamento del sito sul suo repository github.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Scriviamo qualcosa per poi fare un aggiornamento del sito sul suo <em>repository</em> github.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Primo post di prova</title>
+        <title>Un blocchetto estemporaneo</title>
         <author>
             <name>ulaulaman</name>
         </author>
         <link href="https://ulaulaman.github.io/pensierini/primo-post-di-prova.html"/>
         <id>https://ulaulaman.github.io/pensierini/primo-post-di-prova.html</id>
+            <category term="social"/>
+            <category term="presentazioni"/>
+            <category term="kbin"/>
+            <category term="fediverso"/>
+            <category term="blog"/>
 
         <updated>2024-02-07T00:57:00+01:00</updated>
             <summary>
                 <![CDATA[
-                    Un primo post di prova per verificare che il sito venga aggiornato!
+                    Il post di apertura di questo blocchetto di pensierini è quello che ho pubblicato sul mio account kbin. La filosofia del blog che state leggendo&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Un primo post di prova per <em>verificare</em> che il <strong>sito</strong> venga aggiornato!</p>
+                <p><em>Il post di apertura di questo blocchetto di pensierini è quello che <a href="https://kbin.social/m/ulaulanotepad/p/4552884">ho pubblicato sul mio account kbin</a>. La filosofia del blog che state leggendo è fondamentalmente simile a quella di quel post. Qui sposterò i post originariamente usciti su kbin e poi userò questo blogghetto per proseguire su quella linea.</em></p><p>Mentre stavo scrivendo un commento su <a href="https://feddit.it/">feddit.it</a> mi è venuto in mente che potevo raccogliere alcune delle considerazioni sparse un po’ qui e un po’ là, cose per cui non avrei mai scritto un <em>post</em> più articolato. Insomma: cose senza impegno come ne capitano tante sottomano nella giornata. E così ho deciso di mettere in piedi quasta specie di <em>blogghetto</em>, che nella terminologia di <a href="https://kbin.social">kbin</a> è detto <em>magazine</em>, dove raccogliere cose di questo genere. E se riesco magari provo a farci finire anche alcune cose che scrivo direttamente nel <em>fediverso</em> da altre parti, giusto per creare questo punto di raccolta. Punto di raccolta che, in teoria, dovreste poter seguire da qualunque parte voi siate nel <em>fediverso</em>!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Il bagliore dell&#x27;atmosfera della Terra</title>
+        <author>
+            <name>ulaulaman</name>
+        </author>
+        <link href="https://ulaulaman.github.io/pensierini/il-bagliore-dellatmosfera-della-terra.html"/>
+        <id>https://ulaulaman.github.io/pensierini/il-bagliore-dellatmosfera-della-terra.html</id>
+        <media:content url="https://ulaulaman.github.io/pensierini/media/posts/5/earth_atmosferic_glow.jpg" medium="image" />
+            <category term="astronomia"/>
+            <category term="Terra"/>
+            <category term="Stazione Spaziale Internazionale"/>
+            <category term="NASA"/>
+
+        <updated>2024-01-31T12:17:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ulaulaman.github.io/pensierini/media/posts/5/earth_atmosferic_glow.jpg" alt="Earth atmosferic glow" />
+                    Quella che potete vedere cliccando sul link è una fotografia ad alta esposizione in cui si può apprezzare il bagliore dell’atmosfera terrestra sullo sfondo del&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://ulaulaman.github.io/pensierini/media/posts/5/earth_atmosferic_glow.jpg" class="type:primaryImage" alt="Earth atmosferic glow" /></p>
+                <p>Quella che potete vedere <em>cliccando</em> sul <em>link</em> è una fotografia ad alta esposizione in cui si può apprezzare il bagliore dell’atmosfera terrestra sullo sfondo del cielo stellato. La foto è stata scattata a bordo della Stazione Spaziale Internazionale il 21 gennaio del 2024. In quel momento la Stazione si trovava a poco più di 415 chilometri dall’Oceano Pacifico, a nord-est di Papua Nuova Guinea. Sulla sinistra sono visibili il modulo scientifico Nauka e il modulo di aggancio Prichal.</p><p>Image credit: <a href="https://www.nasa.gov/image-detail/iss070e076676/">NASA, ESA/Andreas Mogensen</a></p>
             ]]>
         </content>
     </entry>

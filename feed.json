@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Pensierini di prova",
+    "title": "Pensierini dal webbe",
     "description": "",
     "home_page_url": "https://ulaulaman.github.io/pensierini",
     "feed_url": "https://ulaulaman.github.io/pensierini/feed.json",
@@ -10,60 +10,42 @@
     },
     "items": [
         {
-            "id": "https://ulaulaman.github.io/pensierini/prova-dopo-rinomina.html",
-            "url": "https://ulaulaman.github.io/pensierini/prova-dopo-rinomina.html",
-            "title": "Prova dopo rinomina",
-            "summary": "Prova per verificare il corretto aggiornamento dopo la rinomina del repository.",
-            "content_html": "<p>Prova per verificare il corretto aggiornamento dopo la rinomina del <em>repository</em>.</p>",
-            "author": {
-                "name": "ulaulaman"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-03-08T16:00:04+01:00",
-            "date_modified": "2024-03-08T16:00:04+01:00"
-        },
-        {
-            "id": "https://ulaulaman.github.io/pensierini/nuova-prova-githubica.html",
-            "url": "https://ulaulaman.github.io/pensierini/nuova-prova-githubica.html",
-            "title": "Nuova prova githubica",
-            "summary": "Provo a scrivere e pubblicare un nuovo post per github e sincronizzarlo. Se va probabilmente spostero qui un po’ di cose (cambiando nome del repository e altre cosettine varie)",
-            "content_html": "<p>Provo a scrivere e pubblicare un nuovo post per github e sincronizzarlo. Se va probabilmente spostero qui un po’ di cose (cambiando nome del <em>repository</em> e altre cosettine varie)</p>",
-            "author": {
-                "name": "ulaulaman"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-03-08T15:09:31+01:00",
-            "date_modified": "2024-03-08T15:09:31+01:00"
-        },
-        {
-            "id": "https://ulaulaman.github.io/pensierini/nuova-divagazione.html",
-            "url": "https://ulaulaman.github.io/pensierini/nuova-divagazione.html",
-            "title": "Nuova divagazione",
-            "summary": "Scriviamo qualcosa per poi fare un aggiornamento del sito sul suo repository github.",
-            "content_html": "<p>Scriviamo qualcosa per poi fare un aggiornamento del sito sul suo <em>repository</em> github.</p>",
-            "author": {
-                "name": "ulaulaman"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-02-08T02:02:59+01:00",
-            "date_modified": "2024-02-08T02:02:59+01:00"
-        },
-        {
             "id": "https://ulaulaman.github.io/pensierini/primo-post-di-prova.html",
             "url": "https://ulaulaman.github.io/pensierini/primo-post-di-prova.html",
-            "title": "Primo post di prova",
-            "summary": "Un primo post di prova per verificare che il sito venga aggiornato!",
-            "content_html": "<p>Un primo post di prova per <em>verificare</em> che il <strong>sito</strong> venga aggiornato!</p>",
+            "title": "Un blocchetto estemporaneo",
+            "summary": "Il post di apertura di questo blocchetto di pensierini è quello che ho pubblicato sul mio account kbin. La filosofia del blog che state leggendo&hellip;",
+            "content_html": "<p><em>Il post di apertura di questo blocchetto di pensierini è quello che <a href=\"https://kbin.social/m/ulaulanotepad/p/4552884\">ho pubblicato sul mio account kbin</a>. La filosofia del blog che state leggendo è fondamentalmente simile a quella di quel post. Qui sposterò i post originariamente usciti su kbin e poi userò questo blogghetto per proseguire su quella linea.</em></p><p>Mentre stavo scrivendo un commento su <a href=\"https://feddit.it/\">feddit.it</a> mi è venuto in mente che potevo raccogliere alcune delle considerazioni sparse un po’ qui e un po’ là, cose per cui non avrei mai scritto un <em>post</em> più articolato. Insomma: cose senza impegno come ne capitano tante sottomano nella giornata. E così ho deciso di mettere in piedi quasta specie di <em>blogghetto</em>, che nella terminologia di <a href=\"https://kbin.social\">kbin</a> è detto <em>magazine</em>, dove raccogliere cose di questo genere. E se riesco magari provo a farci finire anche alcune cose che scrivo direttamente nel <em>fediverso</em> da altre parti, giusto per creare questo punto di raccolta. Punto di raccolta che, in teoria, dovreste poter seguire da qualunque parte voi siate nel <em>fediverso</em>!</p>",
             "author": {
                 "name": "ulaulaman"
             },
             "tags": [
+                   "social",
+                   "presentazioni",
+                   "kbin",
+                   "fediverso",
+                   "blog"
             ],
             "date_published": "2024-02-07T00:57:00+01:00",
-            "date_modified": "2024-02-08T01:48:11+01:00"
+            "date_modified": "2024-03-09T21:14:45+01:00"
+        },
+        {
+            "id": "https://ulaulaman.github.io/pensierini/il-bagliore-dellatmosfera-della-terra.html",
+            "url": "https://ulaulaman.github.io/pensierini/il-bagliore-dellatmosfera-della-terra.html",
+            "title": "Il bagliore dell&#x27;atmosfera della Terra",
+            "summary": "Quella che potete vedere cliccando sul link è una fotografia ad alta esposizione in cui si può apprezzare il bagliore dell’atmosfera terrestra sullo sfondo del&hellip;",
+            "content_html": "<p>Quella che potete vedere <em>cliccando</em> sul <em>link</em> è una fotografia ad alta esposizione in cui si può apprezzare il bagliore dell’atmosfera terrestra sullo sfondo del cielo stellato. La foto è stata scattata a bordo della Stazione Spaziale Internazionale il 21 gennaio del 2024. In quel momento la Stazione si trovava a poco più di 415 chilometri dall’Oceano Pacifico, a nord-est di Papua Nuova Guinea. Sulla sinistra sono visibili il modulo scientifico Nauka e il modulo di aggancio Prichal.</p><p>Image credit: <a href=\"https://www.nasa.gov/image-detail/iss070e076676/\">NASA, ESA/Andreas Mogensen</a></p>",
+            "image": "https://ulaulaman.github.io/pensierini/media/posts/5/earth_atmosferic_glow.jpg",
+            "author": {
+                "name": "ulaulaman"
+            },
+            "tags": [
+                   "astronomia",
+                   "Terra",
+                   "Stazione Spaziale Internazionale",
+                   "NASA"
+            ],
+            "date_published": "2024-01-31T12:17:00+01:00",
+            "date_modified": "2024-03-09T21:26:27+01:00"
         }
     ]
 }
