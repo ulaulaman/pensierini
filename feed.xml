@@ -3,7 +3,7 @@
     <title>Pensierini dal webbe</title>
     <link href="https://ulaulaman.github.io/pensierini/feed.xml" rel="self" />
     <link href="https://ulaulaman.github.io/pensierini" />
-    <updated>2024-03-11T22:01:26+01:00</updated>
+    <updated>2024-03-11T22:03:24+01:00</updated>
     <author>
         <name>ulaulaman</name>
     </author>
@@ -148,6 +148,7 @@ In effetti la prima osservazione nell’ottico <a href="https://physicsworld.com
         </author>
         <link href="https://ulaulaman.github.io/pensierini/asteroidi-fagioli-e-ferri-di-cavallo-le-strane-orbite-dei-quasi-satelliti.html"/>
         <id>https://ulaulaman.github.io/pensierini/asteroidi-fagioli-e-ferri-di-cavallo-le-strane-orbite-dei-quasi-satelliti.html</id>
+        <media:content url="https://ulaulaman.github.io/pensierini/media/posts/2/202401-gennaio.jpg" medium="image" />
             <category term="astronomia"/>
             <category term="Terra"/>
             <category term="Osservatorio Astronomico di Brera"/>
@@ -155,12 +156,14 @@ In effetti la prima osservazione nell’ottico <a href="https://physicsworld.com
         <updated>2024-02-01T15:39:00+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://ulaulaman.github.io/pensierini/media/posts/2/202401-gennaio.jpg" alt="Thumb astrocuriosità di gennaio" />
                     Per l’astrocuriosità di gennaio dell’Osservatorio Astronomico di Brera – sì, siamo in ritardo! -, Daniele Spiga ci racconta di quegli asteroidi che per puro caso&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://edu.inaf.it/wp-content/uploads/2024/02/202401-gennaio.jpg"><figure class="post__image"><img loading="lazy" src="https://edu.inaf.it/wp-content/uploads/2024/02/202401-gennaio.jpg" alt="Thumb astrocuriosità di gennaio"  data-is-external-image="true"></figure></a></p><p>Per l’astrocuriosità di gennaio dell’Osservatorio Astronomico di Brera – sì, siamo in ritardo! -, <strong>Daniele Spiga</strong> ci racconta di quegli asteroidi che per puro caso orbitano attorno al Sole in quasi un anno esatto.
+                    <p><img src="https://ulaulaman.github.io/pensierini/media/posts/2/202401-gennaio.jpg" class="type:primaryImage" alt="Thumb astrocuriosità di gennaio" /></p>
+                <p>Per l’astrocuriosità di gennaio dell’Osservatorio Astronomico di Brera – sì, siamo in ritardo! -, <strong>Daniele Spiga</strong> ci racconta di quegli asteroidi che per puro caso orbitano attorno al Sole in quasi un anno esatto.
 Cominceremo da 3753 Cruithne che ha periodo orbitale di 364 giorni per questo chiamato, con abuso di linguaggio, la seconda Luna della Terra.
 Lo sapevate che vista dalla Terra la sua traiettoria ha la forma di un fagiolo?</p><p>Continua su <a href="https://edu.inaf.it/toot/asteroidi-fagioli-e-ferri-di-cavallo-le-strane-orbite-dei-quasi-satelliti/">POE Factory</a></p>
             ]]>
