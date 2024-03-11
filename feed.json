@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://ulaulaman.github.io/pensierini/pensierini-dal-webbe-ritorno-alle-origini.html",
+            "url": "https://ulaulaman.github.io/pensierini/pensierini-dal-webbe-ritorno-alle-origini.html",
+            "title": "Pensierini dal webbe: Ritorno alle origini (o quasi)",
+            "summary": "Dopo un lungo e duro lavoro ho finalmente importato su questo blogghetto tutti i micropost pubblicati in giro per il fediverso, per lo più finiti&hellip;",
+            "content_html": "<p>Dopo un lungo e duro lavoro ho finalmente importato su questo <em>blogghetto</em> tutti i <em>micropost</em> pubblicati in giro per il <em>fediverso</em>, per lo più finiti su feddit attraverso i due principali <em>account</em> quello su feddit, appunto, e quello su kbin. A questi ho anche aggiunto i <em>micropost</em> pubblicati tramite eduinaf e il suo <em>account</em> federato realizzato con il <em>plugin wordpress</em> dedicato allo scopo. Le difficoltà sono state dovute al coordinare l’id dei <em>post</em> con la loro uscita cronologica, ma alla fine mi ritrovo con una <em>dashboard</em> tutto sommato in ordine.\nLa cosa bella di questo <em>blogghetto</em>, però, è che sto realizzando l’<em>hosting</em> su github usanto un <em>software</em>, Publii: in qualche modo è un po’ come tornare alle origini, visto che la prima incarnazione del <a href=\"https://dropseaofulaula.blogspot.com/\">mio blog</a> era realizzata proprio con un <em>software</em> che, in quel caso, pubblicava direttamente sul sito FTP messomi a disposizione dal mio <em>provider</em> internet dell’epoca.\nUna specie di ritorno alle origini!</p>",
+            "author": {
+                "name": "ulaulaman"
+            },
+            "tags": [
+                   "presentazioni",
+                   "blog"
+            ],
+            "date_published": "2024-03-11T22:23:39+01:00",
+            "date_modified": "2024-03-11T22:30:03+01:00"
+        },
+        {
             "id": "https://ulaulaman.github.io/pensierini/universo-pi-greco.html",
             "url": "https://ulaulaman.github.io/pensierini/universo-pi-greco.html",
             "title": "Universo Pi Greco",
@@ -174,24 +190,6 @@
             ],
             "date_published": "2024-02-07T10:00:00+01:00",
             "date_modified": "2024-03-11T21:58:32+01:00"
-        },
-        {
-            "id": "https://ulaulaman.github.io/pensierini/stella-spaghettificazione.html",
-            "url": "https://ulaulaman.github.io/pensierini/stella-spaghettificazione.html",
-            "title": "Quando una stella si... spaghettifica!",
-            "summary": "Si sa che i buchi neri sono oggetti celesti piuttosto voraci, e se una stella ha la sventura di capitare troppo vicino a un buco&hellip;",
-            "content_html": "<p>Si sa che i buchi neri sono oggetti celesti piuttosto voraci, e se una stella ha la sventura di capitare troppo vicino a un buco nero, viene letteralmente strappata attraverso il processo della <em>spaghettificazione</em>. Questo processo a volte genera un getto di particelle perpendicolare al piano lungo il quale avviene la <em>spaghettificazione</em> che si sposta a velocità prossime a quella della luce, e che a sua volta genera luce in diverse bande elettromagnetiche (visibile, radio, infrarossi, ecc.).\nIn effetti la prima osservazione nell’ottico <a href=\"https://physicsworld.com/a/spaghettified-star-ripped-apart-by-a-black-hole-lights-up-with-a-relativistic-jet/\">sembra sia stata fatta a fine 2022</a> e visto che mi era rimasto questo articolo in attesa da allora, mi è sembrato giusto scriverci due righe qui su kbin.</p>",
-            "image": "https://ulaulaman.github.io/pensierini/media/posts/4/black_hole_jet.jpg",
-            "author": {
-                "name": "ulaulaman"
-            },
-            "tags": [
-                   "spaghettificazione",
-                   "buchi neri",
-                   "astronomia"
-            ],
-            "date_published": "2024-02-07T00:02:00+01:00",
-            "date_modified": "2024-03-11T21:57:40+01:00"
         }
     ]
 }

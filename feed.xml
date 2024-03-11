@@ -3,12 +3,36 @@
     <title>Pensierini dal webbe</title>
     <link href="https://ulaulaman.github.io/pensierini/feed.xml" rel="self" />
     <link href="https://ulaulaman.github.io/pensierini" />
-    <updated>2024-03-11T22:16:43+01:00</updated>
+    <updated>2024-03-11T22:30:03+01:00</updated>
     <author>
         <name>ulaulaman</name>
     </author>
     <id>https://ulaulaman.github.io/pensierini</id>
 
+    <entry>
+        <title>Pensierini dal webbe: Ritorno alle origini (o quasi)</title>
+        <author>
+            <name>ulaulaman</name>
+        </author>
+        <link href="https://ulaulaman.github.io/pensierini/pensierini-dal-webbe-ritorno-alle-origini.html"/>
+        <id>https://ulaulaman.github.io/pensierini/pensierini-dal-webbe-ritorno-alle-origini.html</id>
+            <category term="presentazioni"/>
+            <category term="blog"/>
+
+        <updated>2024-03-11T22:23:39+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Dopo un lungo e duro lavoro ho finalmente importato su questo blogghetto tutti i micropost pubblicati in giro per il fediverso, per lo più finiti&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Dopo un lungo e duro lavoro ho finalmente importato su questo <em>blogghetto</em> tutti i <em>micropost</em> pubblicati in giro per il <em>fediverso</em>, per lo più finiti su feddit attraverso i due principali <em>account</em> quello su feddit, appunto, e quello su kbin. A questi ho anche aggiunto i <em>micropost</em> pubblicati tramite eduinaf e il suo <em>account</em> federato realizzato con il <em>plugin wordpress</em> dedicato allo scopo. Le difficoltà sono state dovute al coordinare l’id dei <em>post</em> con la loro uscita cronologica, ma alla fine mi ritrovo con una <em>dashboard</em> tutto sommato in ordine.
+La cosa bella di questo <em>blogghetto</em>, però, è che sto realizzando l’<em>hosting</em> su github usanto un <em>software</em>, Publii: in qualche modo è un po’ come tornare alle origini, visto che la prima incarnazione del <a href="https://dropseaofulaula.blogspot.com/">mio blog</a> era realizzata proprio con un <em>software</em> che, in quel caso, pubblicava direttamente sul sito FTP messomi a disposizione dal mio <em>provider</em> internet dell’epoca.
+Una specie di ritorno alle origini!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Universo Pi Greco</title>
         <author>
@@ -262,33 +286,6 @@ Per intanto vi riproponiamo il video di <strong>Gabriele Ghisellini</strong> (<a
         <content type="html">
             <![CDATA[
                 <p><em>Il post di apertura di questo blocchetto di pensierini è quello che <a href="https://kbin.social/m/ulaulanotepad/p/4552884">ho pubblicato sul mio account kbin</a>. La filosofia del blog che state leggendo è fondamentalmente simile a quella di quel post. Qui sposterò i post originariamente usciti su kbin e poi userò questo blogghetto per proseguire su quella linea.</em></p><p>Mentre stavo scrivendo un commento su <a href="https://feddit.it/">feddit.it</a> mi è venuto in mente che potevo raccogliere alcune delle considerazioni sparse un po’ qui e un po’ là, cose per cui non avrei mai scritto un <em>post</em> più articolato. Insomma: cose senza impegno come ne capitano tante sottomano nella giornata. E così ho deciso di mettere in piedi quasta specie di <em>blogghetto</em>, che nella terminologia di <a href="https://kbin.social">kbin</a> è detto <em>magazine</em>, dove raccogliere cose di questo genere. E se riesco magari provo a farci finire anche alcune cose che scrivo direttamente nel <em>fediverso</em> da altre parti, giusto per creare questo punto di raccolta. Punto di raccolta che, in teoria, dovreste poter seguire da qualunque parte voi siate nel <em>fediverso</em>!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Quando una stella si... spaghettifica!</title>
-        <author>
-            <name>ulaulaman</name>
-        </author>
-        <link href="https://ulaulaman.github.io/pensierini/stella-spaghettificazione.html"/>
-        <id>https://ulaulaman.github.io/pensierini/stella-spaghettificazione.html</id>
-        <media:content url="https://ulaulaman.github.io/pensierini/media/posts/4/black_hole_jet.jpg" medium="image" />
-            <category term="spaghettificazione"/>
-            <category term="buchi neri"/>
-            <category term="astronomia"/>
-
-        <updated>2024-02-07T00:02:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ulaulaman.github.io/pensierini/media/posts/4/black_hole_jet.jpg" alt="Getti di particelle da un buco nero - infografica" />
-                    Si sa che i buchi neri sono oggetti celesti piuttosto voraci, e se una stella ha la sventura di capitare troppo vicino a un buco&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://ulaulaman.github.io/pensierini/media/posts/4/black_hole_jet.jpg" class="type:primaryImage" alt="Getti di particelle da un buco nero - infografica" /></p>
-                <p>Si sa che i buchi neri sono oggetti celesti piuttosto voraci, e se una stella ha la sventura di capitare troppo vicino a un buco nero, viene letteralmente strappata attraverso il processo della <em>spaghettificazione</em>. Questo processo a volte genera un getto di particelle perpendicolare al piano lungo il quale avviene la <em>spaghettificazione</em> che si sposta a velocità prossime a quella della luce, e che a sua volta genera luce in diverse bande elettromagnetiche (visibile, radio, infrarossi, ecc.).
-In effetti la prima osservazione nell’ottico <a href="https://physicsworld.com/a/spaghettified-star-ripped-apart-by-a-black-hole-lights-up-with-a-relativistic-jet/">sembra sia stata fatta a fine 2022</a> e visto che mi era rimasto questo articolo in attesa da allora, mi è sembrato giusto scriverci due righe qui su kbin.</p>
             ]]>
         </content>
     </entry>
