@@ -10,11 +10,31 @@
     },
     "items": [
         {
+            "id": "https://ulaulaman.github.io/pensierini/skao-e-i-misteri-della-luce-invisibile.html",
+            "url": "https://ulaulaman.github.io/pensierini/skao-e-i-misteri-della-luce-invisibile.html",
+            "title": "SKAO e i misteri della luce invisibile",
+            "summary": "La nuova attività astroEDU per il mese di marzo, SKAO and the mysteries of invisible light (per ora disponibile solo in inglese) è una collezione&hellip;",
+            "content_html": "<p>La nuova attività astroEDU per il mese di marzo, <a href=\"http://astroedu.iau.org/en/activities/2404/skao-and-the-mysteries-of-invisible-light/\"><em>SKAO and the mysteries of invisible light</em></a> (per ora disponibile solo in inglese) è una collezione di attività per capire come esista della luce oltre quella che gli esseri umani sono in grado di vedere con il loro occhi, e come questi tipi di luce invisibile forniscono agli astronomi un nuovo modo di vedere l’Universo. Usando gli strumenti di laboratorio, gli studenti sperimenteranno la luce infrarossa, rileveranno l’esistenza delle onde radio, e comprenderanno i principi di base delle collezioni di segnali e del trasferimento dei dati dai telescopi. Inoltre impareranno come tutto ciò sia collegato allo Square Kilometre Array Observatory (SKAO), il più grande radio telescopio del mondo, attualmente in costruzione in aree remote del Sud Africa e dell’Australia.</p>",
+            "image": "https://ulaulaman.github.io/pensierini/media/posts/17/AstroEdu-2404-SKAO-invisible-light.jpg",
+            "author": {
+                "name": "eduinaf"
+            },
+            "tags": [
+                   "radio telescopi",
+                   "didattica",
+                   "astronomia",
+                   "astroEdu",
+                   "SKAO"
+            ],
+            "date_published": "2024-03-14T12:50:51+01:00",
+            "date_modified": "2024-03-14T12:50:51+01:00"
+        },
+        {
             "id": "https://ulaulaman.github.io/pensierini/pensierini-dal-webbe-ritorno-alle-origini.html",
             "url": "https://ulaulaman.github.io/pensierini/pensierini-dal-webbe-ritorno-alle-origini.html",
             "title": "Pensierini dal webbe: Ritorno alle origini (o quasi)",
             "summary": "Dopo un lungo e duro lavoro ho finalmente importato su questo blogghetto tutti i micropost pubblicati in giro per il fediverso, per lo più finiti&hellip;",
-            "content_html": "<p>Dopo un lungo e duro lavoro ho finalmente importato su questo <em>blogghetto</em> tutti i <em>micropost</em> pubblicati in giro per il <em>fediverso</em>, per lo più finiti su feddit attraverso i due principali <em>account</em> quello su feddit, appunto, e quello su kbin. A questi ho anche aggiunto i <em>micropost</em> pubblicati tramite eduinaf e il suo <em>account</em> federato realizzato con il <em>plugin wordpress</em> dedicato allo scopo. Le difficoltà sono state dovute al coordinare l’id dei <em>post</em> con la loro uscita cronologica, ma alla fine mi ritrovo con una <em>dashboard</em> tutto sommato in ordine.\nLa cosa bella di questo <em>blogghetto</em>, però, è che sto realizzando l’<em>hosting</em> su github usanto un <em>software</em>, Publii: in qualche modo è un po’ come tornare alle origini, visto che la prima incarnazione del <a href=\"https://dropseaofulaula.blogspot.com/\">mio blog</a> era realizzata proprio con un <em>software</em> che, in quel caso, pubblicava direttamente sul sito FTP messomi a disposizione dal mio <em>provider</em> internet dell’epoca.\nUna specie di ritorno alle origini!</p>",
+            "content_html": "<p>Dopo un lungo e duro lavoro ho finalmente importato su questo <em>blogghetto</em> tutti i <em>micropost</em> pubblicati in giro per il <em>fediverso</em>, per lo più finiti su feddit attraverso i due principali <em>account</em> quello su feddit, appunto, e quello su kbin. A questi ho anche aggiunto i <em>micropost</em> pubblicati tramite eduinaf e il suo <em>account</em> federato realizzato con il <em>plugin wordpress</em> dedicato allo scopo. Le difficoltà sono state dovute al coordinare l’id dei <em>post</em> con la loro uscita cronologica, ma alla fine mi ritrovo con una <em>dashboard</em> tutto sommato in ordine.</p><p>La cosa bella di questo <em>blogghetto</em>, però, è che sto realizzando l’<em>hosting</em> su github usando un <em>software</em>, <a href=\"https://getpublii.com/\">Publii</a>: in qualche modo è un po’ come tornare alle origini, visto che la prima incarnazione del <a href=\"https://dropseaofulaula.blogspot.com/\">mio blog</a> era realizzata proprio con un <em>software</em> che, in quel caso, pubblicava direttamente sul sito FTP messomi a disposizione dal mio <em>provider</em> internet dell’epoca.</p><p>Una specie di ritorno alle origini!</p>",
             "author": {
                 "name": "ulaulaman"
             },
@@ -23,7 +43,7 @@
                    "blog"
             ],
             "date_published": "2024-03-11T22:23:39+01:00",
-            "date_modified": "2024-03-11T22:30:03+01:00"
+            "date_modified": "2024-03-12T02:28:43+01:00"
         },
         {
             "id": "https://ulaulaman.github.io/pensierini/universo-pi-greco.html",
@@ -171,25 +191,6 @@
             ],
             "date_published": "2024-02-07T12:12:00+01:00",
             "date_modified": "2024-03-11T21:59:03+01:00"
-        },
-        {
-            "id": "https://ulaulaman.github.io/pensierini/blocchetto-estemporaneo.html",
-            "url": "https://ulaulaman.github.io/pensierini/blocchetto-estemporaneo.html",
-            "title": "Un blocchetto estemporaneo",
-            "summary": "Il post di apertura di questo blocchetto di pensierini è quello che ho pubblicato sul mio account kbin. La filosofia del blog che state leggendo&hellip;",
-            "content_html": "<p><em>Il post di apertura di questo blocchetto di pensierini è quello che <a href=\"https://kbin.social/m/ulaulanotepad/p/4552884\">ho pubblicato sul mio account kbin</a>. La filosofia del blog che state leggendo è fondamentalmente simile a quella di quel post. Qui sposterò i post originariamente usciti su kbin e poi userò questo blogghetto per proseguire su quella linea.</em></p><p>Mentre stavo scrivendo un commento su <a href=\"https://feddit.it/\">feddit.it</a> mi è venuto in mente che potevo raccogliere alcune delle considerazioni sparse un po’ qui e un po’ là, cose per cui non avrei mai scritto un <em>post</em> più articolato. Insomma: cose senza impegno come ne capitano tante sottomano nella giornata. E così ho deciso di mettere in piedi quasta specie di <em>blogghetto</em>, che nella terminologia di <a href=\"https://kbin.social\">kbin</a> è detto <em>magazine</em>, dove raccogliere cose di questo genere. E se riesco magari provo a farci finire anche alcune cose che scrivo direttamente nel <em>fediverso</em> da altre parti, giusto per creare questo punto di raccolta. Punto di raccolta che, in teoria, dovreste poter seguire da qualunque parte voi siate nel <em>fediverso</em>!</p>",
-            "author": {
-                "name": "ulaulaman"
-            },
-            "tags": [
-                   "social",
-                   "presentazioni",
-                   "kbin",
-                   "fediverso",
-                   "blog"
-            ],
-            "date_published": "2024-02-07T10:00:00+01:00",
-            "date_modified": "2024-03-11T21:58:32+01:00"
         }
     ]
 }

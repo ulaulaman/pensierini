@@ -3,12 +3,40 @@
     <title>Pensierini dal webbe</title>
     <link href="https://ulaulaman.github.io/pensierini/feed.xml" rel="self" />
     <link href="https://ulaulaman.github.io/pensierini" />
-    <updated>2024-03-11T22:30:03+01:00</updated>
+    <updated>2024-03-14T12:50:51+01:00</updated>
     <author>
         <name>ulaulaman</name>
     </author>
     <id>https://ulaulaman.github.io/pensierini</id>
 
+    <entry>
+        <title>SKAO e i misteri della luce invisibile</title>
+        <author>
+            <name>eduinaf</name>
+        </author>
+        <link href="https://ulaulaman.github.io/pensierini/skao-e-i-misteri-della-luce-invisibile.html"/>
+        <id>https://ulaulaman.github.io/pensierini/skao-e-i-misteri-della-luce-invisibile.html</id>
+        <media:content url="https://ulaulaman.github.io/pensierini/media/posts/17/AstroEdu-2404-SKAO-invisible-light.jpg" medium="image" />
+            <category term="radio telescopi"/>
+            <category term="didattica"/>
+            <category term="astronomia"/>
+            <category term="astroEdu"/>
+            <category term="SKAO"/>
+
+        <updated>2024-03-14T12:50:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ulaulaman.github.io/pensierini/media/posts/17/AstroEdu-2404-SKAO-invisible-light.jpg" alt="SKAO and the mysteries of invisible light" />
+                    La nuova attività astroEDU per il mese di marzo, SKAO and the mysteries of invisible light (per ora disponibile solo in inglese) è una collezione&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://ulaulaman.github.io/pensierini/media/posts/17/AstroEdu-2404-SKAO-invisible-light.jpg" class="type:primaryImage" alt="SKAO and the mysteries of invisible light" /></p>
+                <p>La nuova attività astroEDU per il mese di marzo, <a href="http://astroedu.iau.org/en/activities/2404/skao-and-the-mysteries-of-invisible-light/"><em>SKAO and the mysteries of invisible light</em></a> (per ora disponibile solo in inglese) è una collezione di attività per capire come esista della luce oltre quella che gli esseri umani sono in grado di vedere con il loro occhi, e come questi tipi di luce invisibile forniscono agli astronomi un nuovo modo di vedere l’Universo. Usando gli strumenti di laboratorio, gli studenti sperimenteranno la luce infrarossa, rileveranno l’esistenza delle onde radio, e comprenderanno i principi di base delle collezioni di segnali e del trasferimento dei dati dai telescopi. Inoltre impareranno come tutto ciò sia collegato allo Square Kilometre Array Observatory (SKAO), il più grande radio telescopio del mondo, attualmente in costruzione in aree remote del Sud Africa e dell’Australia.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Pensierini dal webbe: Ritorno alle origini (o quasi)</title>
         <author>
@@ -27,9 +55,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Dopo un lungo e duro lavoro ho finalmente importato su questo <em>blogghetto</em> tutti i <em>micropost</em> pubblicati in giro per il <em>fediverso</em>, per lo più finiti su feddit attraverso i due principali <em>account</em> quello su feddit, appunto, e quello su kbin. A questi ho anche aggiunto i <em>micropost</em> pubblicati tramite eduinaf e il suo <em>account</em> federato realizzato con il <em>plugin wordpress</em> dedicato allo scopo. Le difficoltà sono state dovute al coordinare l’id dei <em>post</em> con la loro uscita cronologica, ma alla fine mi ritrovo con una <em>dashboard</em> tutto sommato in ordine.
-La cosa bella di questo <em>blogghetto</em>, però, è che sto realizzando l’<em>hosting</em> su github usanto un <em>software</em>, Publii: in qualche modo è un po’ come tornare alle origini, visto che la prima incarnazione del <a href="https://dropseaofulaula.blogspot.com/">mio blog</a> era realizzata proprio con un <em>software</em> che, in quel caso, pubblicava direttamente sul sito FTP messomi a disposizione dal mio <em>provider</em> internet dell’epoca.
-Una specie di ritorno alle origini!</p>
+                <p>Dopo un lungo e duro lavoro ho finalmente importato su questo <em>blogghetto</em> tutti i <em>micropost</em> pubblicati in giro per il <em>fediverso</em>, per lo più finiti su feddit attraverso i due principali <em>account</em> quello su feddit, appunto, e quello su kbin. A questi ho anche aggiunto i <em>micropost</em> pubblicati tramite eduinaf e il suo <em>account</em> federato realizzato con il <em>plugin wordpress</em> dedicato allo scopo. Le difficoltà sono state dovute al coordinare l’id dei <em>post</em> con la loro uscita cronologica, ma alla fine mi ritrovo con una <em>dashboard</em> tutto sommato in ordine.</p><p>La cosa bella di questo <em>blogghetto</em>, però, è che sto realizzando l’<em>hosting</em> su github usando un <em>software</em>, <a href="https://getpublii.com/">Publii</a>: in qualche modo è un po’ come tornare alle origini, visto che la prima incarnazione del <a href="https://dropseaofulaula.blogspot.com/">mio blog</a> era realizzata proprio con un <em>software</em> che, in quel caso, pubblicava direttamente sul sito FTP messomi a disposizione dal mio <em>provider</em> internet dell’epoca.</p><p>Una specie di ritorno alle origini!</p>
             ]]>
         </content>
     </entry>
@@ -261,31 +287,6 @@ Per intanto vi riproponiamo il video di <strong>Gabriele Ghisellini</strong> (<a
             <![CDATA[
                     <p><img src="https://ulaulaman.github.io/pensierini/media/posts/6/fables.jpg" class="type:primaryImage" alt="Estratto da una copertina di Fables" /></p>
                 <p>Mentre stavo facendo un giretto per il gruppo, incappo in <a href="https://feddit.it/post/1894221">questa segnalazione</a> e approfondisco la faccenda. Che ovviamente è proseguita con la <a href="https://fumettologica.it/2023/09/fables-dc-comics-dichiarazione-copyright/">risposta della DC Comics</a> che <strong>non</strong> considera <em>Fables</em> in pubblico dominio.</p><p>La cosa è in qualche modo complicata dal fatto che i personaggi di <em>Fables</em>, <a href="https://screenrant.com/dc-comics-fables-not-public-domain-willingham-ownership/">come ricorda</a> <strong>Casey Donahue</strong> su <em>Screen Rant</em>, sono <strong>già</strong> in pubblico dominio, quindi di fatto se domani un fumettista se ne uscisse con una serie con questi personaggi che operano a New York, magari ideandosi una <em>background story</em> differente dall’esilio da <em>favolandia</em>, la DC Comics non potrebbe obiettare alcunché.</p><p>Ad ogni buon conto l’ultimissimo aggiornamento sulla faccenda risale al 24 settembre 2023 quando nel blog su substack di <strong>Bill Willingham</strong> <a href="https://billwillingham.substack.com/p/our-amazing-sunday-afternoon-update">è comparso</a> il suo ultimo <em>post</em>.</p><p>Se non ci sono stati altri aggiornamenti sospetto che ciò sia dovuto al lavorio sottotraccia degli avvocati: la conclusione della faccenda sarà di fatto dettata da un qualche cavillo presente nel contratto tra lo sceneggiatore e la <em>major</em>. Ovviamente non nascondo di tifare per Willingham!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Un blocchetto estemporaneo</title>
-        <author>
-            <name>ulaulaman</name>
-        </author>
-        <link href="https://ulaulaman.github.io/pensierini/blocchetto-estemporaneo.html"/>
-        <id>https://ulaulaman.github.io/pensierini/blocchetto-estemporaneo.html</id>
-            <category term="social"/>
-            <category term="presentazioni"/>
-            <category term="kbin"/>
-            <category term="fediverso"/>
-            <category term="blog"/>
-
-        <updated>2024-02-07T10:00:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Il post di apertura di questo blocchetto di pensierini è quello che ho pubblicato sul mio account kbin. La filosofia del blog che state leggendo&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><em>Il post di apertura di questo blocchetto di pensierini è quello che <a href="https://kbin.social/m/ulaulanotepad/p/4552884">ho pubblicato sul mio account kbin</a>. La filosofia del blog che state leggendo è fondamentalmente simile a quella di quel post. Qui sposterò i post originariamente usciti su kbin e poi userò questo blogghetto per proseguire su quella linea.</em></p><p>Mentre stavo scrivendo un commento su <a href="https://feddit.it/">feddit.it</a> mi è venuto in mente che potevo raccogliere alcune delle considerazioni sparse un po’ qui e un po’ là, cose per cui non avrei mai scritto un <em>post</em> più articolato. Insomma: cose senza impegno come ne capitano tante sottomano nella giornata. E così ho deciso di mettere in piedi quasta specie di <em>blogghetto</em>, che nella terminologia di <a href="https://kbin.social">kbin</a> è detto <em>magazine</em>, dove raccogliere cose di questo genere. E se riesco magari provo a farci finire anche alcune cose che scrivo direttamente nel <em>fediverso</em> da altre parti, giusto per creare questo punto di raccolta. Punto di raccolta che, in teoria, dovreste poter seguire da qualunque parte voi siate nel <em>fediverso</em>!</p>
             ]]>
         </content>
     </entry>
