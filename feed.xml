@@ -3,12 +3,42 @@
     <title>Pensierini dal webbe</title>
     <link href="https://ulaulaman.github.io/pensierini/feed.xml" rel="self" />
     <link href="https://ulaulaman.github.io/pensierini" />
-    <updated>2024-03-15T14:05:53+01:00</updated>
+    <updated>2024-03-15T17:07:04+01:00</updated>
     <author>
         <name>ulaulaman</name>
     </author>
     <id>https://ulaulaman.github.io/pensierini</id>
 
+    <entry>
+        <title>L&#x27;impatto di DART su Dimorphos</title>
+        <author>
+            <name>eduinaf</name>
+        </author>
+        <link href="https://ulaulaman.github.io/pensierini/limpatto-di-dart-su-dimorphos.html"/>
+        <id>https://ulaulaman.github.io/pensierini/limpatto-di-dart-su-dimorphos.html</id>
+            <category term="astronomia"/>
+            <category term="asteroidi"/>
+            <category term="LICIACube"/>
+            <category term="Dimorphos"/>
+            <category term="Didymos"/>
+            <category term="DART"/>
+
+        <updated>2024-03-15T12:24:47+01:00</updated>
+            <summary>
+                <![CDATA[
+                    A l’1:14 ora italiana del 27 settembre 2022 il satellite DART si è andato a schiantare contro l’asteroide Dimorphos, che a sua volta ruota intorno&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://edu.inaf.it/wp-content/uploads/2024/03/dimorphos_didymos.png"><figure class="post__image"><img loading="lazy" src="https://edu.inaf.it/wp-content/uploads/2024/03/dimorphos_didymos.png" alt="Fulssi di polvere attorno a Dimorphos"  data-is-external-image="true"></figure></a></p><p>A l’1:14 ora italiana del 27 settembre 2022 il satellite DART si è andato a schiantare contro l’asteroide Dimorphos, che a sua volta ruota intorno all’asteroide Didymos. A immortalare la scena dall’esterno c’era un testimone oculare molto particolare, il <em>cubesat</em> italiano LICIACube. Abbiamo parlato di questo particolare esperimento cosmico in un <a href="https://edu.inaf.it/astrodidattica/liciacube-dart-asteroidi/">video di approfondimento</a> giusto qualche giorno prima dell’impatto effettivo (potete <a href="https://dropseaofulaula.blogspot.com/2022/10/in-viaggio-con-dart.html">vedere un riassunto qui</a>).
+Ora, dopo un anno e mezzo, sono arrivate le <a href="https://www.media.inaf.it/2024/02/28/liciacube-pennacchi-dart-dimorphos/">prime analisi di quei dati raccolti</a>, pubblicate su un <a href="https://www.nature.com/articles/s41586-023-06998-2">articolo uscito su <em>nature</em></a> in cui viene analizzata la composizione della nube di detriti e di polvere espulsa dall’asteroide Dimorphos in seguito all’impatto esplosivo con DART.
+<strong>Elisabetta Dotto</strong>, ricercatrice INAF, così commenta quelle prime immagini raccolte da LICACube:</p><blockquote>
+<p>La prima cosa stupefacente è stata che la superficie di Dimorphos non è stata più visibile a causa del materiale espulso. Oltre a testimoniare l’evento unico della deflessione di un asteroide grazie a un impatto cinetico, sono state ottenute immagini dettagliate di un asteroide binario che ci possono permettere di capire meglio la natura di questi oggetti. Poiché gli asteroidi sono ciò che resta di una fase intermedia del processo che ha portato alla formazione dei pianeti, i dati acquisiti forniscono informazioni importanti nello studio delle prime fasi di aggregazione del materiale che compone il Sistema solare.</p></blockquote>
+<p>I risultati del <em>team</em> e, soprattutto, le immagini raccolte dal <em>cubesat</em> italiano, dimostrano che strumenti di queste dimensioni così compatte possono risultare molto efficaci nella raccolta di dati scientifici astronomici.</p><p><em>Nell’immagine: I flussi di polvere attorno a Dimorphos (in alto). In basso l’asteroide compagno Didymos. La risoluzione dell’immagine è di 7,5 m per pixel a 97 km da Dimorphos. Crediti: E.Dotto/INAF/ASI</em></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>openVertebrate: I vertebrati come non li avete mai visti</title>
         <author>
@@ -263,30 +293,6 @@ L’attività, dalla Slovenia, è stata sviluppata all’interno del <a href="ht
 <li><a href="https://edu.inaf.it/approfondimenti/personaggi/vera-rubin/"><strong>Vera Rubin</strong></a>, astronoma</li>
 </ul>
 <p>Un posto molto speciale, però, lo riveste <strong>Margherita Hack</strong>, alla quale abbiamo dedicato, nel giugno del 2022, un <a href="https://edu.inaf.it/margherita-hack-100/">corposo speciale</a> ricco di approfondimenti e ricordi della grande astronoma italiana.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Il cielo in raggi X si svela al mondo</title>
-        <author>
-            <name>eduinaf</name>
-        </author>
-        <link href="https://ulaulaman.github.io/pensierini/erosita-rilascio-gennaio-2024.html"/>
-        <id>https://ulaulaman.github.io/pensierini/erosita-rilascio-gennaio-2024.html</id>
-            <category term="raggi X"/>
-            <category term="eRosita"/>
-            <category term="astronomia"/>
-
-        <updated>2024-02-07T15:30:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Era il 20 giugno del 2020 quando eRosita rilasciava il suo primo “censimento” delle stelle. Quest’anno, il 31 gennaio del 2024, il consorzio dietro questo&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://edu.inaf.it/wp-content/uploads/2024/02/20240131-erosita_survey.jpg"><figure class="post__image"><img loading="lazy" src="https://edu.inaf.it/wp-content/uploads/2024/02/20240131-erosita_survey.jpg" alt="Rilascio del 2024 di eRosita"  data-is-external-image="true"></figure></a></p><p>Era il 20 giugno del 2020 quando <em>eRosita</em> rilasciava il suo primo “censimento” delle stelle. Quest’anno, il 31 gennaio del 2024, il consorzio dietro questo grande esperimento di osservazione dell’universo ai raggi X <a href="https://www.mpe.mpg.de/7989698/news20240131">ha rilasciato una nuova mappa del cielo ai raggi X</a>. La striscia centrale che divide in due la mappa è la Via Lattea, il cui centro si trova a sinistra. A quanto si legge, i dati utilizzati per questo nuovo rilascio sono ancora quelli della prima presa dati, quella avvenuta tra il 12 dicembre 2019 e l’11 giugno 2020. Da allora e fino a febbraio 2022 sono stati realizzati altre tre censimenti, per cui dobbiamo aspettarci altre nuove mappe altrettanto (se non più) dettagliate di questa nei prossimi anni.
-Per intanto vi riproponiamo il video di <strong>Gabriele Ghisellini</strong> (<a href="https://edu.inaf.it/approfondimenti/scoperte/erosita-via-lattea-raggi-x/">con articolo</a>) dedicato a eRosita e uscito nel luglio 2020:</p><p><a href="https://youtu.be/ITp9_Ufdp5A">https://youtu.be/ITp9_Ufdp5A</a></p>
             ]]>
         </content>
     </entry>
