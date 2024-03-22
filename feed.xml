@@ -3,12 +3,38 @@
     <title>Pensierini dal webbe</title>
     <link href="https://ulaulaman.github.io/pensierini/feed.xml" rel="self" />
     <link href="https://ulaulaman.github.io/pensierini" />
-    <updated>2024-03-15T17:38:27+01:00</updated>
+    <updated>2024-03-22T18:46:47+01:00</updated>
     <author>
         <name>ulaulaman</name>
     </author>
     <id>https://ulaulaman.github.io/pensierini</id>
 
+    <entry>
+        <title>L&#x27;oggetto di Hanny</title>
+        <author>
+            <name>eduinaf</name>
+        </author>
+        <link href="https://ulaulaman.github.io/pensierini/oggetto-di-hanny.html"/>
+        <id>https://ulaulaman.github.io/pensierini/oggetto-di-hanny.html</id>
+            <category term="quasar"/>
+            <category term="citizen science"/>
+            <category term="astronomia"/>
+            <category term="Zooniverse"/>
+            <category term="Leone Minore"/>
+            <category term="Hanny van Arkel"/>
+
+        <updated>2024-03-22T17:55:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                    All’interno della costellazione del Leone Minore si può osservare un raro oggetto celeste scoperto nel 2007 dall’insegnante olandese Hanny van Arkel. Questa stava partecipando al&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://edu.inaf.it/wp-content/uploads/2020/03/ic2497.jpg"><figure class="post__image"><img loading="lazy" src="https://edu.inaf.it/wp-content/uploads/2020/03/ic2497.jpg" alt="IC 2497 o l&#39;oggetto di Hanny"  data-is-external-image="true"></figure></a></p><p>All’interno della <a href="https://edu.inaf.it/costellazioni/leone-minore/">costellazione del Leone Minore</a> si può osservare un raro oggetto celeste scoperto nel 2007 dall’insegnante olandese <a href="https://www.hannysvoorwerp.com/"><strong>Hanny van Arkel</strong></a>. Questa stava partecipando al progetto di <em>citizen science</em> <em>Galaxy Zoo</em>, un progetto di classificazione delle galassie promosso da <a href="https://www.zooniverse.org/"><em>Zooniverse</em></a> (a tal proposito vi ricordiamo del progetto dei <a href="https://edu.inaf.it/news/inaf-societa/detective-macchie-solari-zooniverse/"><em>Sunspots detectives</em></a>). A un certo punto Hanny si imbatté in uno strano sbuffo azzurro presente nella foto della galassia <strong>IC 2497</strong> scattata dallo <em>Sloan Digital Sky Survey</em>. L’oggetto, denominato <em>Hanny’s Voorwerp</em>, <em>oggetto di Hanny</em> in olandese, è probabilmente una nube di gas estremamente calda e molto ionizzata. Probabilmente sta riflettendo la luce di una quasar al centro di IC 2497 e ora estinta, motivo per cui è stato denominato anche come <em>eco ionizatta di una quasar</em>. Studi nella banda delle onde radio suggeriscono, poi, che questo oggetto stia interagendo con un deflusso di gas proveniente dal nucleo della galassia, dando vita al processo di formazione delle stelle.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>L&#x27;impatto di DART su Dimorphos</title>
         <author>
@@ -261,38 +287,6 @@ L’attività, dalla Slovenia, è stata sviluppata all’interno del <a href="ht
 <li><a href="https://edu.inaf.it/rubriche/universo-mondo/olayinka-fagbemiro-didattica-stem-nigeria/"><em>Bisogna catturarli da giovani: l’astronomia e la didattica STEM in Nigeria</em></a>, intervista a <strong>Olayinka Fagbemiro</strong></li>
 </ul>
 <p>Per completare il quadro, sempre di Claudia Mignone, vi segnaliamo la <a href="https://edu.inaf.it/rubriche/libri/scienza-disparita-genere/">recensione di <em>Inferiori</em></a>, saggio di <strong>Angela Saini</strong> uscito nel 2019 per la Harper Collins, senza dimenticare il nostro speciale <a href="https://edu.inaf.it/donne-e-scienza-2024/">dedicato al tema delle donne nella scienza</a>.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Personaggi: Donne che hanno fatto e raccontato la scienza</title>
-        <author>
-            <name>eduinaf</name>
-        </author>
-        <link href="https://ulaulaman.github.io/pensierini/donne-scienza-personaggi.html"/>
-        <id>https://ulaulaman.github.io/pensierini/donne-scienza-personaggi.html</id>
-            <category term="donne e scienza"/>
-            <category term="biografie"/>
-
-        <updated>2024-02-10T15:17:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Tra le nostre rubriche e i nostri approfondimenti, abbiamo una sezione dedicata alle biografie, un modo per raccontare quei personaggi che hanno contribuito alla scienza&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><a href="https://edu.inaf.it/wp-content/uploads/2024/02/donne_scienza-2024-evidenza-1.jpg"><figure class="post__image"><img loading="lazy" src="https://edu.inaf.it/wp-content/uploads/2024/02/donne_scienza-2024-evidenza-1.jpg" alt="Donne e scienza"  data-is-external-image="true"></figure></a></p><p>Tra le nostre rubriche e i nostri approfondimenti, abbiamo una sezione dedicata alle <a href="https://edu.inaf.it/category/approfondimenti/personaggi/">biografie</a>, un modo per raccontare quei personaggi che hanno contribuito alla scienza e alla sua diffusione, in campo astronomico, ma non solo. Una parte di queste biografie l’abbiamo dedicata alle donne. Così, in occasione della <a href="https://www.un.org/en/observances/women-and-girls-in-science-day"><strong>Giornata internazionale delle donne e delle ragazze nella scienza</strong></a>, che si celebrerà domani 11 febbraio, abbiamo deciso di segnalarvele tutte in ordine cronologico, dalla prima alla più recente:</p><ul>
-<li><a href="https://edu.inaf.it/approfondimenti/personaggi/cecilia-payne-e-la-struttura-delle-stelle/"><strong>Cecilia Helena Payne</strong></a>, astronoma</li>
-<li><a href="https://edu.inaf.it/approfondimenti/personaggi/women-in-science-jocelyn-bell-burnell/"><strong>Jocelyn Bell Burnell</strong></a>, astrofisica</li>
-<li><a href="https://edu.inaf.it/approfondimenti/personaggi/women-in-science-gertrude-elion/"><strong>Gertude Elion</strong></a>, biochimica</li>
-<li><a href="https://edu.inaf.it/approfondimenti/personaggi/women-in-science-rosalind-franklin/"><strong>Rosalind Franklin</strong></a>, chimica</li>
-<li><a href="https://edu.inaf.it/approfondimenti/personaggi/joan-feynman-e-le-aurore-polari/"><strong>Joan Feynman</strong></a>, astrofisica</li>
-<li><a href="https://edu.inaf.it/approfondimenti/personaggi/lara-albanese-la-raccontascienza/"><strong>Lara Albanese</strong></a>, scrittrice</li>
-<li><a href="https://edu.inaf.it/approfondimenti/personaggi/uhura-un-futuro-possibile/"><strong>Nichelle Nichols</strong></a>, attrice</li>
-<li><a href="https://edu.inaf.it/approfondimenti/personaggi/vera-rubin/"><strong>Vera Rubin</strong></a>, astronoma</li>
-</ul>
-<p>Un posto molto speciale, però, lo riveste <strong>Margherita Hack</strong>, alla quale abbiamo dedicato, nel giugno del 2022, un <a href="https://edu.inaf.it/margherita-hack-100/">corposo speciale</a> ricco di approfondimenti e ricordi della grande astronoma italiana.</p>
             ]]>
         </content>
     </entry>
