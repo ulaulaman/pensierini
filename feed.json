@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://ulaulaman.github.io/pensierini/le-olimpiadi-di-matematica-delle-ai.html",
+            "url": "https://ulaulaman.github.io/pensierini/le-olimpiadi-di-matematica-delle-ai.html",
+            "title": "Le Olimpiadi di Matematica delle AI",
+            "summary": "Come segnalato da Terence Tao su mastodon, sono partite le AI Mathematical Olympiad, competizione in cui si chiede ai partecipanti di sottomettere algoritmi e modelli&hellip;",
+            "content_html": "<p>Come segnalato da <a href=\"https://mathstodon.xyz/@tao/112202296143187441\"><strong>Terence Tao</strong> su mastodon</a>, sono partite le <em>AI Mathematical Olympiad</em>, competizione in cui si chiede ai partecipanti di sottomettere algoritmi e modelli di intelligenza artificiale in grado di risolvere problemi matematici.</p><p>La sfida, così come riassunta da Tao, è quella di realizzare una IA in grado di rispondere a un test costituito da 50 domande, ognuna delle quali con una risposta costituita da un numero di 3 cifre. Gli organizzatori delle <em>olimpiadi</em> hanno realizzato un modello di “controllo” in grado di rispondere correttamente a 3 di queste 50 domande. Quindi chi spera di vincere, dovrà superare questa soglia.</p><p>La sottomissione dei codici si chiude il <strong>27 giugno</strong>: tutti i <a href=\"https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/overview\">dettagli sulla pagina Kaggle</a></p>",
+            "author": {
+                "name": "ulaulaman"
+            },
+            "tags": [
+                   "matematica",
+                   "intelligenza artificiale"
+            ],
+            "date_published": "2024-04-02T17:36:40+02:00",
+            "date_modified": "2024-04-02T17:36:40+02:00"
+        },
+        {
             "id": "https://ulaulaman.github.io/pensierini/il-premio-papersera-2024-a-lucca-collezionando.html",
             "url": "https://ulaulaman.github.io/pensierini/il-premio-papersera-2024-a-lucca-collezionando.html",
             "title": "Il Premio Papersera 2024 a Lucca Collezionando",
@@ -183,25 +199,6 @@
             ],
             "date_published": "2024-02-29T16:48:00+01:00",
             "date_modified": "2024-03-11T21:59:20+01:00"
-        },
-        {
-            "id": "https://ulaulaman.github.io/pensierini/erosita-universo-omogeneo.html",
-            "url": "https://ulaulaman.github.io/pensierini/erosita-universo-omogeneo.html",
-            "title": "L’omogeneità dell’universo secondo e-Rosita",
-            "summary": "Avevamo già scritto dell’uscita dell’ultima versione del catalogo di e-Rosita e torniamo ad aggiornarvi sull’ultimo risultato scientifico ottenuto esaminando i dati presenti in quel catalogo.",
-            "content_html": "<p><a href=\"https://edu.inaf.it/wp-content/uploads/2024/02/20240131-erosita_survey.jpg\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://edu.inaf.it/wp-content/uploads/2024/02/20240131-erosita_survey.jpg\" alt=\"Rilascio del 2024 di eRosita\"  data-is-external-image=\"true\"></figure></a></p><p>Avevamo già scritto dell’<a href=\"https://ulaulaman.github.io/pensierini/erosita-rilascio-gennaio-2024.html\">uscita dell’ultima versione del catalogo di <em>e-Rosita</em></a> e torniamo ad aggiornarvi sull’ultimo risultato scientifico ottenuto esaminando i dati presenti in quel catalogo. In particolare i ricercatori sono riusciti a ottenere, <a href=\"https://www.media.inaf.it/2024/02/23/erosita-tensione-cosmologica/\">citando dall’articolo di <strong>Maura Sandri</strong> su MediaINAF</a>, “<em>misure precise del contenuto totale di materia e del modo in cui si raggruppa</em>“, ottenendo una nuova conferma del <a href=\"https://en.wikipedia.org/wiki/Lambda-CDM_model\"><em>modello cosmologico standard</em></a> in particolare legata alla così detta tensione cosmologica S8.\nIn cosmologia esiste una tensione cosmologica più famosa, quella legata alla <a href=\"https://edu.inaf.it/rubriche/astronomo-risponde/la-costante-di-hubble-nel-tempo/\">costante di Hubble</a>: infatti, senza scendere in eccessivi dettagli, a seconda del metodo di misura di questa costante si ottengono dati in discrepanza tra loro. E più o meno <a href=\"https://pirsa.org/23050129\">avviene la stessa cosa con le disomogeneità presenti nell’universo</a>, in particolare tra quanto predetto a partire dai dati della <a href=\"https://dropseaofulaula.blogspot.com/2019/10/storia-di-una-radiazione.html\">radiazione cosmica di fondo</a> e quanto osservato nell’universo vicino.\nO dovremmo scrivere “avveniva”. A patto che i <a href=\"https://arxiv.org/abs/2402.08458\">risultati</a> del gruppo che ha esaminato i dati di <em>e-Rosita</em> verranno confermati.</p>",
-            "author": {
-                "name": "eduinaf"
-            },
-            "tags": [
-                   "universo",
-                   "radiazione cosmica di fondo",
-                   "modello cosmologico",
-                   "eRosita",
-                   "cosmologia"
-            ],
-            "date_published": "2024-02-23T21:06:00+01:00",
-            "date_modified": "2024-03-11T22:12:38+01:00"
         }
     ]
 }
