@@ -3,12 +3,43 @@
     <title>Pensierini dal webbe</title>
     <link href="https://ulaulaman.github.io/pensierini/feed.xml" rel="self" />
     <link href="https://ulaulaman.github.io/pensierini" />
-    <updated>2024-04-02T17:36:40+02:00</updated>
+    <updated>2024-07-02T11:42:38+02:00</updated>
     <author>
         <name>ulaulaman</name>
     </author>
     <id>https://ulaulaman.github.io/pensierini</id>
 
+    <entry>
+        <title>Il respiro degli antenati</title>
+        <author>
+            <name>ulaulaman</name>
+        </author>
+        <link href="https://ulaulaman.github.io/pensierini/il-respiro-degli-antenati.html"/>
+        <id>https://ulaulaman.github.io/pensierini/il-respiro-degli-antenati.html</id>
+        <media:content url="https://ulaulaman.github.io/pensierini/media/posts/25/alone.png" medium="image" />
+            <category term="quasar"/>
+            <category term="buchi neri"/>
+            <category term="astronomia"/>
+            <category term="INAF"/>
+
+        <updated>2024-07-02T11:42:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ulaulaman.github.io/pensierini/media/posts/25/alone.png" alt="" />
+                    Un team di ricerca guidato dall’Istituto Nazionale di Astrofisica (INAF) e dall’Università degli studi di Trieste ha di nuovo imbrigliato i lontanissimi ed energici venti&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://ulaulaman.github.io/pensierini/media/posts/25/alone.png" class="type:primaryImage" alt="" /></p>
+                <p><em>Un team di ricerca guidato dall’Istituto Nazionale di Astrofisica (INAF) e dall’Università degli studi di Trieste ha di nuovo imbrigliato i lontanissimi ed energici venti relativistici generati da un quasar lontano ma decisamente attivo (uno dei più luminosi finora scoperti). In uno <a href="https://doi.org/10.48550/arXiv.2404.12443">studio pubblicato sulla rivista The Astrophysical Journal</a> viene riportata la prima osservazione a diverse lunghezze d’onda dell’interazione tra buco nero e il quasar della galassia ospite <strong>J0923+0402</strong> durante le fasi iniziali dell’Universo, circa 13 miliardi di anni fa (quando l’Universo aveva meno di un miliardo di anni). Oltre all’evidenza di una tempesta di gas generata dal buco nero, gli esperti hanno scoperto per la prima volta un alone di gas che si estende ben oltre la galassia, suggerendo la presenza di materiale espulso dalla galassia stessa tramite i venti generati dal buco nero.</em></p>
+<blockquote>
+<p>Il nostro studio ci aiuta a capire come il gas venga espulso o catturato dalle galassie dell’Universo giovane e come i buchi neri crescono e possono avere un impatto sull’evoluzione delle galassie. Sappiamo che il fato delle galassie come la Via Lattea è strettamente legato a quello dei buchi neri, poiché questi possono generare tempeste galattiche in grado di spegnere la formazione di nuove stelle. Studiare le epoche primordiali ci permette di capire le condizioni iniziali dell’Universo che vediamo oggi. - <strong>Manuela Bischetti</strong></p>
+</blockquote>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Le Olimpiadi di Matematica delle AI</title>
         <author>
@@ -27,7 +58,10 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Come segnalato da <a href="https://mathstodon.xyz/@tao/112202296143187441"><strong>Terence Tao</strong> su mastodon</a>, sono partite le <em>AI Mathematical Olympiad</em>, competizione in cui si chiede ai partecipanti di sottomettere algoritmi e modelli di intelligenza artificiale in grado di risolvere problemi matematici.</p><p>La sfida, così come riassunta da Tao, è quella di realizzare una IA in grado di rispondere a un test costituito da 50 domande, ognuna delle quali con una risposta costituita da un numero di 3 cifre. Gli organizzatori delle <em>olimpiadi</em> hanno realizzato un modello di “controllo” in grado di rispondere correttamente a 3 di queste 50 domande. Quindi chi spera di vincere, dovrà superare questa soglia.</p><p>La sottomissione dei codici si chiude il <strong>27 giugno</strong>: tutti i <a href="https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/overview">dettagli sulla pagina Kaggle</a></p>
+                <p>Come segnalato da <a href="https://mathstodon.xyz/@tao/112202296143187441"><strong>Terence Tao</strong> su mastodon</a>, sono partite le <em>AI Mathematical Olympiad</em>, competizione in cui si chiede ai partecipanti di sottomettere algoritmi e modelli di intelligenza artificiale in grado di risolvere problemi matematici.</p>
+<p>La sfida, così come riassunta da Tao, è quella di realizzare una IA in grado di rispondere a un test costituito da 50 domande, ognuna delle quali con una risposta costituita da un numero di 3 cifre. Gli organizzatori delle <em>olimpiadi</em> hanno realizzato un modello di “controllo” in grado di rispondere correttamente a 3 di queste 50 domande. Quindi chi spera di vincere, dovrà superare questa soglia.</p>
+<p>La sottomissione dei codici si chiude il <strong>27 giugno</strong>: tutti i <a href="https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/overview">dettagli sulla pagina Kaggle</a></p>
+
             ]]>
         </content>
     </entry>
@@ -47,7 +81,7 @@
             <category term="Corrado Mastantuono"/>
             <category term="Alessandro Sisti"/>
 
-        <updated>2024-03-29T20:48:22+01:00</updated>
+        <updated>2024-03-29T20:56:13+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ulaulaman.github.io/pensierini/media/posts/22/alessandro_sisti-papersera.jpg" alt="Estratto copertina volume dedicato ad Alessandro Sisti" />
@@ -57,7 +91,9 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://ulaulaman.github.io/pensierini/media/posts/22/alessandro_sisti-papersera.jpg" class="type:primaryImage" alt="Estratto copertina volume dedicato ad Alessandro Sisti" /></p>
-                <p>Quest’anno il <em>Premio Papersera</em>, prestigioso premio assegnato ogni anno dalla comunità di <em>fan</em> <em>disneyani</em> agli autori di <em>Topolino</em>, è stato consegnato in quel di <em>Lucca Collezionando</em> ad <a href="https://www.papersera.net/wp/2024/03/23/breaking-news-premio-papersera-ad-alessandro-sisti/"><strong>Alessandro Sisti</strong> nella categoria degli sceneggiatori</a> e a <a href="https://www.papersera.net/wp/2024/03/24/premio-papersera-a-corrado-mastantuono/"><strong>Corrado Mastantuono</strong> per i disegnatori</a>.</p><p>Sul canale YouTube dell’Associazione si trova <a href="https://youtu.be/rGZ8fR0J4Qk">una sintesi della cerimonia di premiazione</a>.</p>
+                <p>Quest’anno il <em>Premio Papersera</em>, prestigioso premio assegnato ogni anno dalla comunità di <em>fan</em> <em>disneyani</em> agli autori di <em>Topolino</em>, è stato consegnato in quel di <em>Lucca Collezionando</em> ad <a href="https://www.papersera.net/wp/2024/03/23/breaking-news-premio-papersera-ad-alessandro-sisti/"><strong>Alessandro Sisti</strong> nella categoria degli sceneggiatori</a> e a <a href="https://www.papersera.net/wp/2024/03/24/premio-papersera-a-corrado-mastantuono/"><strong>Corrado Mastantuono</strong> per i disegnatori</a>.</p>
+<p>Sul canale YouTube dell’Associazione si trova <a href="https://youtu.be/rGZ8fR0J4Qk">una sintesi della cerimonia di premiazione</a>.</p>
+
             ]]>
         </content>
     </entry>
@@ -82,7 +118,8 @@
         <content type="html">
             <![CDATA[
                 <blockquote>
-<p><em>Quantum Leap</em> series creator <strong>Donald P. Bellisario</strong> joins <em>Ars Technica</em> to answer once and for all the lingering questions we have about his enduringly popular show. Was Dr. Sam Beckett really leaping between all those time periods and people or did he simply imagine it all? What do people in the waiting room do while Sam is in their bodies? What happens to Sam’s loyal ally Al? 30 years following the series finale, answers to these mysteries and more await.</p></blockquote>
+<p><em>Quantum Leap</em> series creator <strong>Donald P. Bellisario</strong> joins <em>Ars Technica</em> to answer once and for all the lingering questions we have about his enduringly popular show. Was Dr. Sam Beckett really leaping between all those time periods and people or did he simply imagine it all? What do people in the waiting room do while Sam is in their bodies? What happens to Sam’s loyal ally Al? 30 years following the series finale, answers to these mysteries and more await.</p>
+</blockquote>
 <script async src="//player-backend.cnevids.com/script/video/60abade4dc31e5375248cba6.js"></script>
 
             ]]>
@@ -91,7 +128,7 @@
     <entry>
         <title>L&#x27;oggetto di Hanny</title>
         <author>
-            <name>eduinaf</name>
+            <name>ulaulaman</name>
         </author>
         <link href="https://ulaulaman.github.io/pensierini/oggetto-di-hanny.html"/>
         <id>https://ulaulaman.github.io/pensierini/oggetto-di-hanny.html</id>
@@ -102,7 +139,7 @@
             <category term="Leone Minore"/>
             <category term="Hanny van Arkel"/>
 
-        <updated>2024-03-22T17:55:00+01:00</updated>
+        <updated>2024-03-22T18:46:47+01:00</updated>
             <summary>
                 <![CDATA[
                     All’interno della costellazione del Leone Minore si può osservare un raro oggetto celeste scoperto nel 2007 dall’insegnante olandese Hanny van Arkel. Questa stava partecipando al&hellip;
@@ -110,14 +147,16 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://edu.inaf.it/wp-content/uploads/2020/03/ic2497.jpg"><figure class="post__image"><img loading="lazy" src="https://edu.inaf.it/wp-content/uploads/2020/03/ic2497.jpg" alt="IC 2497 o l&#39;oggetto di Hanny"  data-is-external-image="true"></figure></a></p><p>All’interno della <a href="https://edu.inaf.it/costellazioni/leone-minore/">costellazione del Leone Minore</a> si può osservare un raro oggetto celeste scoperto nel 2007 dall’insegnante olandese <a href="https://www.hannysvoorwerp.com/"><strong>Hanny van Arkel</strong></a>. Questa stava partecipando al progetto di <em>citizen science</em> <em>Galaxy Zoo</em>, un progetto di classificazione delle galassie promosso da <a href="https://www.zooniverse.org/"><em>Zooniverse</em></a> (a tal proposito vi ricordiamo del progetto dei <a href="https://edu.inaf.it/news/inaf-societa/detective-macchie-solari-zooniverse/"><em>Sunspots detectives</em></a>). A un certo punto Hanny si imbatté in uno strano sbuffo azzurro presente nella foto della galassia <strong>IC 2497</strong> scattata dallo <em>Sloan Digital Sky Survey</em>. L’oggetto, denominato <em>Hanny’s Voorwerp</em>, <em>oggetto di Hanny</em> in olandese, è probabilmente una nube di gas estremamente calda e molto ionizzata. Probabilmente sta riflettendo la luce di una quasar al centro di IC 2497 e ora estinta, motivo per cui è stato denominato anche come <em>eco ionizatta di una quasar</em>. Studi nella banda delle onde radio suggeriscono, poi, che questo oggetto stia interagendo con un deflusso di gas proveniente dal nucleo della galassia, dando vita al processo di formazione delle stelle.</p>
+                <p><a href="https://edu.inaf.it/wp-content/uploads/2020/03/ic2497.jpg"><figure class="post__image"><img loading="lazy" src="https://edu.inaf.it/wp-content/uploads/2020/03/ic2497.jpg" alt="IC 2497 o l&#39;oggetto di Hanny"  data-is-external-image="true"></figure></a></p>
+<p>All’interno della <a href="https://edu.inaf.it/costellazioni/leone-minore/">costellazione del Leone Minore</a> si può osservare un raro oggetto celeste scoperto nel 2007 dall’insegnante olandese <a href="https://www.hannysvoorwerp.com/"><strong>Hanny van Arkel</strong></a>. Questa stava partecipando al progetto di <em>citizen science</em> <em>Galaxy Zoo</em>, un progetto di classificazione delle galassie promosso da <a href="https://www.zooniverse.org/"><em>Zooniverse</em></a> (a tal proposito vi ricordiamo del progetto dei <a href="https://edu.inaf.it/news/inaf-societa/detective-macchie-solari-zooniverse/"><em>Sunspots detectives</em></a>). A un certo punto Hanny si imbatté in uno strano sbuffo azzurro presente nella foto della galassia <strong>IC 2497</strong> scattata dallo <em>Sloan Digital Sky Survey</em>. L’oggetto, denominato <em>Hanny’s Voorwerp</em>, <em>oggetto di Hanny</em> in olandese, è probabilmente una nube di gas estremamente calda e molto ionizzata. Probabilmente sta riflettendo la luce di una quasar al centro di IC 2497 e ora estinta, motivo per cui è stato denominato anche come <em>eco ionizatta di una quasar</em>. Studi nella banda delle onde radio suggeriscono, poi, che questo oggetto stia interagendo con un deflusso di gas proveniente dal nucleo della galassia, dando vita al processo di formazione delle stelle.</p>
+
             ]]>
         </content>
     </entry>
     <entry>
         <title>L&#x27;impatto di DART su Dimorphos</title>
         <author>
-            <name>eduinaf</name>
+            <name>ulaulaman</name>
         </author>
         <link href="https://ulaulaman.github.io/pensierini/limpatto-di-dart-su-dimorphos.html"/>
         <id>https://ulaulaman.github.io/pensierini/limpatto-di-dart-su-dimorphos.html</id>
@@ -128,7 +167,7 @@
             <category term="Didymos"/>
             <category term="DART"/>
 
-        <updated>2024-03-15T12:24:47+01:00</updated>
+        <updated>2024-03-15T17:38:27+01:00</updated>
             <summary>
                 <![CDATA[
                     A l’1:14 ora italiana del 27 settembre 2022 il satellite DART si è andato a schiantare contro l’asteroide Dimorphos, che a sua volta ruota intorno&hellip;
@@ -136,11 +175,16 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://edu.inaf.it/wp-content/uploads/2024/03/dimorphos_didymos.png"><figure class="post__image"><img loading="lazy" src="https://edu.inaf.it/wp-content/uploads/2024/03/dimorphos_didymos.png" alt="Fulssi di polvere attorno a Dimorphos"  data-is-external-image="true"></figure></a></p><p>A l’1:14 ora italiana del 27 settembre 2022 il satellite DART si è andato a schiantare contro l’asteroide Dimorphos, che a sua volta ruota intorno all’asteroide Didymos. A immortalare la scena dall’esterno c’era un testimone oculare molto particolare, il <em>cubesat</em> italiano LICIACube. Abbiamo parlato di questo particolare esperimento cosmico in un <a href="https://edu.inaf.it/astrodidattica/liciacube-dart-asteroidi/">video di approfondimento</a> giusto qualche giorno prima dell’impatto effettivo (potete <a href="https://dropseaofulaula.blogspot.com/2022/10/in-viaggio-con-dart.html">vedere un riassunto qui</a>).
+                <p><a href="https://edu.inaf.it/wp-content/uploads/2024/03/dimorphos_didymos.png"><figure class="post__image"><img loading="lazy" src="https://edu.inaf.it/wp-content/uploads/2024/03/dimorphos_didymos.png" alt="Fulssi di polvere attorno a Dimorphos"  data-is-external-image="true"></figure></a></p>
+<p>A l’1:14 ora italiana del 27 settembre 2022 il satellite DART si è andato a schiantare contro l’asteroide Dimorphos, che a sua volta ruota intorno all’asteroide Didymos. A immortalare la scena dall’esterno c’era un testimone oculare molto particolare, il <em>cubesat</em> italiano LICIACube. Abbiamo parlato di questo particolare esperimento cosmico in un <a href="https://edu.inaf.it/astrodidattica/liciacube-dart-asteroidi/">video di approfondimento</a> giusto qualche giorno prima dell’impatto effettivo (potete <a href="https://dropseaofulaula.blogspot.com/2022/10/in-viaggio-con-dart.html">vedere un riassunto qui</a>).
 Ora, dopo un anno e mezzo, sono arrivate le <a href="https://www.media.inaf.it/2024/02/28/liciacube-pennacchi-dart-dimorphos/">prime analisi di quei dati raccolti</a>, pubblicate su un <a href="https://www.nature.com/articles/s41586-023-06998-2">articolo uscito su <em>nature</em></a> in cui viene analizzata la composizione della nube di detriti e di polvere espulsa dall’asteroide Dimorphos in seguito all’impatto esplosivo con DART.
-<strong>Elisabetta Dotto</strong>, ricercatrice INAF, così commenta quelle prime immagini raccolte da LICACube:</p><blockquote>
-<p>La prima cosa stupefacente è stata che la superficie di Dimorphos non è stata più visibile a causa del materiale espulso. Oltre a testimoniare l’evento unico della deflessione di un asteroide grazie a un impatto cinetico, sono state ottenute immagini dettagliate di un asteroide binario che ci possono permettere di capire meglio la natura di questi oggetti. Poiché gli asteroidi sono ciò che resta di una fase intermedia del processo che ha portato alla formazione dei pianeti, i dati acquisiti forniscono informazioni importanti nello studio delle prime fasi di aggregazione del materiale che compone il Sistema solare.</p></blockquote>
-<p>I risultati del <em>team</em> e, soprattutto, le immagini raccolte dal <em>cubesat</em> italiano, dimostrano che strumenti di queste dimensioni così compatte possono risultare molto efficaci nella raccolta di dati scientifici astronomici.</p><p><em>Nell’immagine: I flussi di polvere attorno a Dimorphos (in alto). In basso l’asteroide compagno Didymos. La risoluzione dell’immagine è di 7,5 m per pixel a 97 km da Dimorphos. Crediti: E.Dotto/INAF/ASI</em></p>
+<strong>Elisabetta Dotto</strong>, ricercatrice INAF, così commenta quelle prime immagini raccolte da LICACube:</p>
+<blockquote>
+<p>La prima cosa stupefacente è stata che la superficie di Dimorphos non è stata più visibile a causa del materiale espulso. Oltre a testimoniare l’evento unico della deflessione di un asteroide grazie a un impatto cinetico, sono state ottenute immagini dettagliate di un asteroide binario che ci possono permettere di capire meglio la natura di questi oggetti. Poiché gli asteroidi sono ciò che resta di una fase intermedia del processo che ha portato alla formazione dei pianeti, i dati acquisiti forniscono informazioni importanti nello studio delle prime fasi di aggregazione del materiale che compone il Sistema solare.</p>
+</blockquote>
+<p>I risultati del <em>team</em> e, soprattutto, le immagini raccolte dal <em>cubesat</em> italiano, dimostrano che strumenti di queste dimensioni così compatte possono risultare molto efficaci nella raccolta di dati scientifici astronomici.</p>
+<p><em>Nell’immagine: I flussi di polvere attorno a Dimorphos (in alto). In basso l’asteroide compagno Didymos. La risoluzione dell’immagine è di 7,5 m per pixel a 97 km da Dimorphos. Crediti: E.Dotto/INAF/ASI</em></p>
+
             ]]>
         </content>
     </entry>
@@ -157,7 +201,7 @@ Ora, dopo un anno e mezzo, sono arrivate le <a href="https://www.media.inaf.it/2
             <category term="evoluzione"/>
             <category term="biofisica"/>
 
-        <updated>2024-03-15T10:23:24+01:00</updated>
+        <updated>2024-03-15T14:05:53+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ulaulaman.github.io/pensierini/media/posts/18/06-03-24-CT-specimens-small.jpg" alt="Migliaia di modelli 3D di esemplari museali sono ora disponibili gratuitamente per la visualizzazione" />
@@ -167,14 +211,17 @@ Ora, dopo un anno e mezzo, sono arrivate le <a href="https://www.media.inaf.it/2
         <content type="html">
             <![CDATA[
                     <p><img src="https://ulaulaman.github.io/pensierini/media/posts/18/06-03-24-CT-specimens-small.jpg" class="type:primaryImage" alt="Migliaia di modelli 3D di esemplari museali sono ora disponibili gratuitamente per la visualizzazione" /></p>
-                <p><a href="https://www.floridamuseum.ufl.edu/overt/"><em>openVertebrate</em></a> (oVert) è un interessante progetto, finanziato dalla <em>National Science Foundation</em> statunitense, che in cinque anni, dal 2017 al 2023, ha realizzato alcune spettacolari ricostruzioni 3D di vertebrati <a href="https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biad120/7615104">utilizzando la tomografia computerizzata</a>.</p><p>Questa gran mole di immagini sono ora <a href="https://www.floridamuseum.ufl.edu/digital-lab/">liberamente disponibili</a>. La collezione include anfibi, rettili, pesci e mammiferi, conservati in diversi musei e molti dei quali non accessibili al pubblico nel corso delle visite ai musei stessi.</p><p>Come ha ricordato <a href="https://physicsworld.com/a/spectacular-scans-of-thousands-of-vertebrate-specimens-released/"><strong>Michael Banks</strong> su <em>Physics World</em></a>, lo studio ha portato all’attenzione dei ricercatori alcune sorprese, come la scoperta che le rane hanno perso e riguadagnato i denti in svariate occasioni nel corso della loro storia evolutiva!</p>
+                <p><a href="https://www.floridamuseum.ufl.edu/overt/"><em>openVertebrate</em></a> (oVert) è un interessante progetto, finanziato dalla <em>National Science Foundation</em> statunitense, che in cinque anni, dal 2017 al 2023, ha realizzato alcune spettacolari ricostruzioni 3D di vertebrati <a href="https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biad120/7615104">utilizzando la tomografia computerizzata</a>.</p>
+<p>Questa gran mole di immagini sono ora <a href="https://www.floridamuseum.ufl.edu/digital-lab/">liberamente disponibili</a>. La collezione include anfibi, rettili, pesci e mammiferi, conservati in diversi musei e molti dei quali non accessibili al pubblico nel corso delle visite ai musei stessi.</p>
+<p>Come ha ricordato <a href="https://physicsworld.com/a/spectacular-scans-of-thousands-of-vertebrate-specimens-released/"><strong>Michael Banks</strong> su <em>Physics World</em></a>, lo studio ha portato all’attenzione dei ricercatori alcune sorprese, come la scoperta che le rane hanno perso e riguadagnato i denti in svariate occasioni nel corso della loro storia evolutiva!</p>
+
             ]]>
         </content>
     </entry>
     <entry>
         <title>SKAO e i misteri della luce invisibile</title>
         <author>
-            <name>eduinaf</name>
+            <name>ulaulaman</name>
         </author>
         <link href="https://ulaulaman.github.io/pensierini/skao-e-i-misteri-della-luce-invisibile.html"/>
         <id>https://ulaulaman.github.io/pensierini/skao-e-i-misteri-della-luce-invisibile.html</id>
@@ -196,6 +243,7 @@ Ora, dopo un anno e mezzo, sono arrivate le <a href="https://www.media.inaf.it/2
             <![CDATA[
                     <p><img src="https://ulaulaman.github.io/pensierini/media/posts/17/AstroEdu-2404-SKAO-invisible-light.jpg" class="type:primaryImage" alt="SKAO and the mysteries of invisible light" /></p>
                 <p>La nuova attività astroEDU per il mese di marzo, <a href="http://astroedu.iau.org/en/activities/2404/skao-and-the-mysteries-of-invisible-light/"><em>SKAO and the mysteries of invisible light</em></a> (per ora disponibile solo in inglese) è una collezione di attività per capire come esista della luce oltre quella che gli esseri umani sono in grado di vedere con il loro occhi, e come questi tipi di luce invisibile forniscono agli astronomi un nuovo modo di vedere l’Universo. Usando gli strumenti di laboratorio, gli studenti sperimenteranno la luce infrarossa, rileveranno l’esistenza delle onde radio, e comprenderanno i principi di base delle collezioni di segnali e del trasferimento dei dati dai telescopi. Inoltre impareranno come tutto ciò sia collegato allo Square Kilometre Array Observatory (SKAO), il più grande radio telescopio del mondo, attualmente in costruzione in aree remote del Sud Africa e dell’Australia.</p>
+
             ]]>
         </content>
     </entry>
@@ -209,7 +257,7 @@ Ora, dopo un anno e mezzo, sono arrivate le <a href="https://www.media.inaf.it/2
             <category term="presentazioni"/>
             <category term="blog"/>
 
-        <updated>2024-03-11T22:23:39+01:00</updated>
+        <updated>2024-03-12T02:28:43+01:00</updated>
             <summary>
                 <![CDATA[
                     Dopo un lungo e duro lavoro ho finalmente importato su questo blogghetto tutti i micropost pubblicati in giro per il fediverso, per lo più finiti&hellip;
@@ -217,14 +265,17 @@ Ora, dopo un anno e mezzo, sono arrivate le <a href="https://www.media.inaf.it/2
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Dopo un lungo e duro lavoro ho finalmente importato su questo <em>blogghetto</em> tutti i <em>micropost</em> pubblicati in giro per il <em>fediverso</em>, per lo più finiti su feddit attraverso i due principali <em>account</em> quello su feddit, appunto, e quello su kbin. A questi ho anche aggiunto i <em>micropost</em> pubblicati tramite eduinaf e il suo <em>account</em> federato realizzato con il <em>plugin wordpress</em> dedicato allo scopo. Le difficoltà sono state dovute al coordinare l’id dei <em>post</em> con la loro uscita cronologica, ma alla fine mi ritrovo con una <em>dashboard</em> tutto sommato in ordine.</p><p>La cosa bella di questo <em>blogghetto</em>, però, è che sto realizzando l’<em>hosting</em> su github usando un <em>software</em>, <a href="https://getpublii.com/">Publii</a>: in qualche modo è un po’ come tornare alle origini, visto che la prima incarnazione del <a href="https://dropseaofulaula.blogspot.com/">mio blog</a> era realizzata proprio con un <em>software</em> che, in quel caso, pubblicava direttamente sul sito FTP messomi a disposizione dal mio <em>provider</em> internet dell’epoca.</p><p>Una specie di ritorno alle origini!</p>
+                <p>Dopo un lungo e duro lavoro ho finalmente importato su questo <em>blogghetto</em> tutti i <em>micropost</em> pubblicati in giro per il <em>fediverso</em>, per lo più finiti su feddit attraverso i due principali <em>account</em> quello su feddit, appunto, e quello su kbin. A questi ho anche aggiunto i <em>micropost</em> pubblicati tramite eduinaf e il suo <em>account</em> federato realizzato con il <em>plugin wordpress</em> dedicato allo scopo. Le difficoltà sono state dovute al coordinare l’id dei <em>post</em> con la loro uscita cronologica, ma alla fine mi ritrovo con una <em>dashboard</em> tutto sommato in ordine.</p>
+<p>La cosa bella di questo <em>blogghetto</em>, però, è che sto realizzando l’<em>hosting</em> su github usando un <em>software</em>, <a href="https://getpublii.com/">Publii</a>: in qualche modo è un po’ come tornare alle origini, visto che la prima incarnazione del <a href="https://dropseaofulaula.blogspot.com/">mio blog</a> era realizzata proprio con un <em>software</em> che, in quel caso, pubblicava direttamente sul sito FTP messomi a disposizione dal mio <em>provider</em> internet dell’epoca.</p>
+<p>Una specie di ritorno alle origini!</p>
+
             ]]>
         </content>
     </entry>
     <entry>
         <title>Universo Pi Greco</title>
         <author>
-            <name>eduinaf</name>
+            <name>ulaulaman</name>
         </author>
         <link href="https://ulaulaman.github.io/pensierini/universo-pi-greco.html"/>
         <id>https://ulaulaman.github.io/pensierini/universo-pi-greco.html</id>
@@ -236,7 +287,7 @@ Ora, dopo un anno e mezzo, sono arrivate le <a href="https://www.media.inaf.it/2
             <category term="buchi neri"/>
             <category term="astronomia"/>
 
-        <updated>2024-03-06T15:18:00+01:00</updated>
+        <updated>2024-03-11T22:16:43+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ulaulaman.github.io/pensierini/media/posts/15/universo_pi_greco-titolo.jpg" alt="Universo Pi Greco - copertina" />
@@ -249,34 +300,7 @@ Ora, dopo un anno e mezzo, sono arrivate le <a href="https://www.media.inaf.it/2
                 <p>Si può parlare di astronomia anche quando si parla di <em>pi greco</em>, come nell’<em>Astrocuriosità</em> di marzo dell’Osservatorio Astronomico di Brera, per questo mese realizzata da <strong>Gianluigi Filippelli</strong>.
 Dai supercomputer al <em>pi greco</em> passando per i <strong>fratelli Chudnovsky</strong> ecco un antipasto del <a href="https://dropseaofulaula.blogspot.com/2024/03/tutti-pronti-per-il-pi-day.html"><em>pi day</em></a> del 14 marzo 2024!
 Il tutto <a href="http://poefactory.brera.inaf.it/astrocuriosita-marzo-2024-universo-pi-greco/">sulle pagine di POE Factory</a>!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>I fumetti di Mao</title>
-        <author>
-            <name>ulaulaman</name>
-        </author>
-        <link href="https://ulaulaman.github.io/pensierini/fumetti-di-mao.html"/>
-        <id>https://ulaulaman.github.io/pensierini/fumetti-di-mao.html</id>
-        <media:content url="https://ulaulaman.github.io/pensierini/media/posts/14/fumetti_mao.jpg" medium="image" />
-            <category term="fumetti"/>
-            <category term="Umberto Eco"/>
-            <category term="Laterza"/>
-            <category term="Cina"/>
 
-        <updated>2024-02-29T16:48:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ulaulaman.github.io/pensierini/media/posts/14/fumetti_mao.jpg" alt="Estratto dal volume I fumetti di Mao" />
-                    Ripesco molto volentieri questo post in un momento di pausa, visto che mi ha permesso di scoprire una recensione ospitata su jstor che, secondo me,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://ulaulaman.github.io/pensierini/media/posts/14/fumetti_mao.jpg" class="type:primaryImage" alt="Estratto dal volume I fumetti di Mao" /></p>
-                <p>Ripesco molto volentieri <a href="https://feddit.it/post/3244866">questo <em>post</em></a> in un momento di pausa, visto che mi ha permesso di scoprire una <a href="https://www.jstor.org/stable/40855379">recensione ospitata su jstor</a> che, secondo me, è piuttosto interessante, e soprattutto ho scoperto che alcune copie del fumetto sono persino in <a href="https://www.abebooks.com/book-search/title/fumetti-di-mao/">vendita su AdeBooks</a> (e non ho voluto proseguire oltre in questa ricerca: chissà quante altre copie avrei trovato!) a una trentina di dollari l’uno.
-Ai link proposti prima aggiungo: <a href="https://www.machina-deriveapprodi.com/post/i-fumetti-di-mao">questo</a> che ristampa l’articolo di <strong>Umberto Eco</strong> (uno dei curatori del volume, edito da Laterza) con tanto di ristampa intergrale di una delle storie (la stessa cosa <a href="https://www.infoaut.org/culture/i-fumetti-di-mao">viene fatta anche qui</a>); <a href="http://iamthemarius.blogspot.com/2013/11/distaccamento-femminile-rosso-disegni.html">questo articolo</a> con un’ampia selezione di vignette da una delle storie del volume. Altre immagini si trovano su siti di vendita come <a href="https://www.bedetheque.com/serie-41609-BD-Fumetti-di-Mao-I.html">qui</a> e <a href="https://it.todocoleccion.net/fumetti-europei/i-fumetti-di-mao-jean-chesnaux-umberto-eco-gino-nebiolo-editori-laterza-italiano~x38473881">qui</a>.</p>
             ]]>
         </content>
     </entry>
