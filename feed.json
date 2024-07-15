@@ -10,6 +10,25 @@
     },
     "items": [
         {
+            "id": "https://ulaulaman.github.io/pensierini/ritratto-di-un-satellite-gioviano.html",
+            "url": "https://ulaulaman.github.io/pensierini/ritratto-di-un-satellite-gioviano.html",
+            "title": "Ritratto di un satellite gioviano",
+            "summary": "La luna gioviana Io, ripresa da SHARK-VIS@LBT il 10 gennaio 2024. I canali rosso, verde e blu di questa immagine in tricromia mostrano rispettivamente le&hellip;",
+            "content_html": "<blockquote>\n<p>La luna gioviana Io, ripresa da SHARK-VIS@LBT il 10 gennaio 2024. I canali rosso, verde e blu di questa immagine in tricromia mostrano rispettivamente le bande spettrali I (infrarosso), R (rosso) e V (verde) (corrispondenti a lunghezze d’onda a 755, 620 e 550 nanometri). Si tratta dell’immagine di Io a più alta risoluzione mai ottenuta da un telescopio terrestre.</p>\n</blockquote>\n<p>L’<a href=\"https://doi.org/10.1029/2024GL108609\">articolo scientifico</a></p>\n",
+            "image": "https://ulaulaman.github.io/pensierini/media/posts/26/Io-LBT-SHARK_VIS-INAF.jpg",
+            "author": {
+                "name": "ulaulaman"
+            },
+            "tags": [
+                   "sistema solare",
+                   "astronomia",
+                   "INAF",
+                   "Giove"
+            ],
+            "date_published": "2024-07-15T11:10:00+02:00",
+            "date_modified": "2024-07-15T11:16:33+02:00"
+        },
+        {
             "id": "https://ulaulaman.github.io/pensierini/il-respiro-degli-antenati.html",
             "url": "https://ulaulaman.github.io/pensierini/il-respiro-degli-antenati.html",
             "title": "Il respiro degli antenati",
@@ -178,27 +197,6 @@
             ],
             "date_published": "2024-03-11T22:23:39+01:00",
             "date_modified": "2024-03-12T02:28:43+01:00"
-        },
-        {
-            "id": "https://ulaulaman.github.io/pensierini/universo-pi-greco.html",
-            "url": "https://ulaulaman.github.io/pensierini/universo-pi-greco.html",
-            "title": "Universo Pi Greco",
-            "summary": "Si può parlare di astronomia anche quando si parla di pi greco, come nell’Astrocuriosità di marzo dell’Osservatorio Astronomico di Brera, per questo mese realizzata da&hellip;",
-            "content_html": "<p>Si può parlare di astronomia anche quando si parla di <em>pi greco</em>, come nell’<em>Astrocuriosità</em> di marzo dell’Osservatorio Astronomico di Brera, per questo mese realizzata da <strong>Gianluigi Filippelli</strong>.\nDai supercomputer al <em>pi greco</em> passando per i <strong>fratelli Chudnovsky</strong> ecco un antipasto del <a href=\"https://dropseaofulaula.blogspot.com/2024/03/tutti-pronti-per-il-pi-day.html\"><em>pi day</em></a> del 14 marzo 2024!\nIl tutto <a href=\"http://poefactory.brera.inaf.it/astrocuriosita-marzo-2024-universo-pi-greco/\">sulle pagine di POE Factory</a>!</p>\n",
-            "image": "https://ulaulaman.github.io/pensierini/media/posts/15/universo_pi_greco-titolo.jpg",
-            "author": {
-                "name": "ulaulaman"
-            },
-            "tags": [
-                   "supercomputer",
-                   "pi greco",
-                   "pi day",
-                   "fratelli Chudnovsky",
-                   "buchi neri",
-                   "astronomia"
-            ],
-            "date_published": "2024-03-06T15:18:00+01:00",
-            "date_modified": "2024-03-11T22:16:43+01:00"
         }
     ]
 }

@@ -3,12 +3,43 @@
     <title>Pensierini dal webbe</title>
     <link href="https://ulaulaman.github.io/pensierini/feed.xml" rel="self" />
     <link href="https://ulaulaman.github.io/pensierini" />
-    <updated>2024-07-02T11:42:38+02:00</updated>
+    <updated>2024-07-15T11:16:33+02:00</updated>
     <author>
         <name>ulaulaman</name>
     </author>
     <id>https://ulaulaman.github.io/pensierini</id>
 
+    <entry>
+        <title>Ritratto di un satellite gioviano</title>
+        <author>
+            <name>ulaulaman</name>
+        </author>
+        <link href="https://ulaulaman.github.io/pensierini/ritratto-di-un-satellite-gioviano.html"/>
+        <id>https://ulaulaman.github.io/pensierini/ritratto-di-un-satellite-gioviano.html</id>
+        <media:content url="https://ulaulaman.github.io/pensierini/media/posts/26/Io-LBT-SHARK_VIS-INAF.jpg" medium="image" />
+            <category term="sistema solare"/>
+            <category term="astronomia"/>
+            <category term="INAF"/>
+            <category term="Giove"/>
+
+        <updated>2024-07-15T11:16:33+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ulaulaman.github.io/pensierini/media/posts/26/Io-LBT-SHARK_VIS-INAF.jpg" alt="" />
+                    La luna gioviana Io, ripresa da SHARK-VIS@LBT il 10 gennaio 2024. I canali rosso, verde e blu di questa immagine in tricromia mostrano rispettivamente le&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://ulaulaman.github.io/pensierini/media/posts/26/Io-LBT-SHARK_VIS-INAF.jpg" class="type:primaryImage" alt="" /></p>
+                <blockquote>
+<p>La luna gioviana Io, ripresa da SHARK-VIS@LBT il 10 gennaio 2024. I canali rosso, verde e blu di questa immagine in tricromia mostrano rispettivamente le bande spettrali I (infrarosso), R (rosso) e V (verde) (corrispondenti a lunghezze d’onda a 755, 620 e 550 nanometri). Si tratta dell’immagine di Io a più alta risoluzione mai ottenuta da un telescopio terrestre.</p>
+</blockquote>
+<p>L’<a href="https://doi.org/10.1029/2024GL108609">articolo scientifico</a></p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Il respiro degli antenati</title>
         <author>
@@ -268,38 +299,6 @@ Ora, dopo un anno e mezzo, sono arrivate le <a href="https://www.media.inaf.it/2
                 <p>Dopo un lungo e duro lavoro ho finalmente importato su questo <em>blogghetto</em> tutti i <em>micropost</em> pubblicati in giro per il <em>fediverso</em>, per lo più finiti su feddit attraverso i due principali <em>account</em> quello su feddit, appunto, e quello su kbin. A questi ho anche aggiunto i <em>micropost</em> pubblicati tramite eduinaf e il suo <em>account</em> federato realizzato con il <em>plugin wordpress</em> dedicato allo scopo. Le difficoltà sono state dovute al coordinare l’id dei <em>post</em> con la loro uscita cronologica, ma alla fine mi ritrovo con una <em>dashboard</em> tutto sommato in ordine.</p>
 <p>La cosa bella di questo <em>blogghetto</em>, però, è che sto realizzando l’<em>hosting</em> su github usando un <em>software</em>, <a href="https://getpublii.com/">Publii</a>: in qualche modo è un po’ come tornare alle origini, visto che la prima incarnazione del <a href="https://dropseaofulaula.blogspot.com/">mio blog</a> era realizzata proprio con un <em>software</em> che, in quel caso, pubblicava direttamente sul sito FTP messomi a disposizione dal mio <em>provider</em> internet dell’epoca.</p>
 <p>Una specie di ritorno alle origini!</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Universo Pi Greco</title>
-        <author>
-            <name>ulaulaman</name>
-        </author>
-        <link href="https://ulaulaman.github.io/pensierini/universo-pi-greco.html"/>
-        <id>https://ulaulaman.github.io/pensierini/universo-pi-greco.html</id>
-        <media:content url="https://ulaulaman.github.io/pensierini/media/posts/15/universo_pi_greco-titolo.jpg" medium="image" />
-            <category term="supercomputer"/>
-            <category term="pi greco"/>
-            <category term="pi day"/>
-            <category term="fratelli Chudnovsky"/>
-            <category term="buchi neri"/>
-            <category term="astronomia"/>
-
-        <updated>2024-03-11T22:16:43+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ulaulaman.github.io/pensierini/media/posts/15/universo_pi_greco-titolo.jpg" alt="Universo Pi Greco - copertina" />
-                    Si può parlare di astronomia anche quando si parla di pi greco, come nell’Astrocuriosità di marzo dell’Osservatorio Astronomico di Brera, per questo mese realizzata da&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://ulaulaman.github.io/pensierini/media/posts/15/universo_pi_greco-titolo.jpg" class="type:primaryImage" alt="Universo Pi Greco - copertina" /></p>
-                <p>Si può parlare di astronomia anche quando si parla di <em>pi greco</em>, come nell’<em>Astrocuriosità</em> di marzo dell’Osservatorio Astronomico di Brera, per questo mese realizzata da <strong>Gianluigi Filippelli</strong>.
-Dai supercomputer al <em>pi greco</em> passando per i <strong>fratelli Chudnovsky</strong> ecco un antipasto del <a href="https://dropseaofulaula.blogspot.com/2024/03/tutti-pronti-per-il-pi-day.html"><em>pi day</em></a> del 14 marzo 2024!
-Il tutto <a href="http://poefactory.brera.inaf.it/astrocuriosita-marzo-2024-universo-pi-greco/">sulle pagine di POE Factory</a>!</p>
 
             ]]>
         </content>
