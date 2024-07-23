@@ -3,12 +3,65 @@
     <title>Pensierini dal webbe</title>
     <link href="https://ulaulaman.github.io/pensierini/feed.xml" rel="self" />
     <link href="https://ulaulaman.github.io/pensierini" />
-    <updated>2024-07-15T11:16:33+02:00</updated>
+    <updated>2024-07-23T15:24:16+02:00</updated>
     <author>
         <name>ulaulaman</name>
     </author>
     <id>https://ulaulaman.github.io/pensierini</id>
 
+    <entry>
+        <title>Zoom nell&#x27;universo a infrarosso con un anello di Einstein</title>
+        <author>
+            <name>ulaulaman</name>
+        </author>
+        <link href="https://ulaulaman.github.io/pensierini/universo-a-infrarosso-anello-di-einstein.html"/>
+        <id>https://ulaulaman.github.io/pensierini/universo-a-infrarosso-anello-di-einstein.html</id>
+            <category term="astronomia"/>
+            <category term="INAF"/>
+            <category term="ESO"/>
+
+        <updated>2024-07-23T15:24:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Le osservazioni della galassia infrarossa iperluminosa PJ0116-24 con il Vlt/Eris e Alma hanno rivelato un anello di Einstein causato dalla lente gravitazionale di una galassia&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://edu.inaf.it/wp-content/uploads/2024/07/PJ0116-24.jpg"><figure class="post__image"><img loading="lazy" src="https://edu.inaf.it/wp-content/uploads/2024/07/PJ0116-24.jpg" alt="PJ0116-24.jpg"  data-is-external-image="true"></figure></a></p>
+<p>Le osservazioni della galassia infrarossa iperluminosa PJ0116-24 con il Vlt/Eris e Alma hanno rivelato un anello di Einstein causato dalla lente gravitazionale di una galassia interposta. Questo studio dimostra che anche galassie isolate possono diventare estremamente luminose senza per forza ricorrere a drammatiche collisioni galattiche, con il gas che si concentra rapidamente verso il centro della galassia. L’INAF ha contribuito significativamente allo sviluppo degli strumenti per queste osservazioni. Lo studio su <em>Nature Astronomy</em></p>
+<p>L’articolo completo <a href="https://www.media.inaf.it/2024/07/15/pj0116-24-alma-eris/">su MediaINAF</a></p>
+<p><em><strong>Nell’immagine</strong>: I dati di Alma in blu, i dati di Vlt/Eris in rosso-arancione. Crediti: Alma (Eso/Naoj/Nrao)/Eso/D. Liu et al.</em></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Juice e il primo flyby Terra-Luna della storia</title>
+        <author>
+            <name>ulaulaman</name>
+        </author>
+        <link href="https://ulaulaman.github.io/pensierini/juice-flyby-terra-luna.html"/>
+        <id>https://ulaulaman.github.io/pensierini/juice-flyby-terra-luna.html</id>
+            <category term="astronomia"/>
+            <category term="INAF"/>
+            <category term="ESA"/>
+
+        <updated>2024-07-23T15:15:42+02:00</updated>
+            <summary>
+                <![CDATA[
+                    La missione Juice dell’Agenzia spaziale europea, in volo verso le lune ghiacciate di Giove dall’aprile 2023, tornerà verso il nostro pianeta il 19 e 20&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://edu.inaf.it/wp-content/uploads/2024/07/lunar_earth_flyby.jpg"><figure class="post__image"><img loading="lazy" src="https://edu.inaf.it/wp-content/uploads/2024/07/lunar_earth_flyby.jpg" alt="lunar_earth_flyby.jpg"  data-is-external-image="true"></figure></a></p>
+<p>La missione <em>Juice</em> dell’Agenzia spaziale europea, in volo verso le lune ghiacciate di Giove dall’aprile 2023, tornerà verso il nostro pianeta il 19 e 20 agosto per una manovra di <em>flyby</em> mai avvenuta prima: attorno alla Luna e successivamente alla Terra. Una traiettoria che consentirà alla sonda spaziale di prendere una scorciatoia verso Giove passando per Venere.</p>
+<p>Su <a href="https://www.media.inaf.it/2024/07/15/juice-flyby-terra-luna/">MediaINAF</a></p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ritratto di un satellite gioviano</title>
         <author>
@@ -245,60 +298,6 @@ Ora, dopo un anno e mezzo, sono arrivate le <a href="https://www.media.inaf.it/2
                 <p><a href="https://www.floridamuseum.ufl.edu/overt/"><em>openVertebrate</em></a> (oVert) è un interessante progetto, finanziato dalla <em>National Science Foundation</em> statunitense, che in cinque anni, dal 2017 al 2023, ha realizzato alcune spettacolari ricostruzioni 3D di vertebrati <a href="https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biad120/7615104">utilizzando la tomografia computerizzata</a>.</p>
 <p>Questa gran mole di immagini sono ora <a href="https://www.floridamuseum.ufl.edu/digital-lab/">liberamente disponibili</a>. La collezione include anfibi, rettili, pesci e mammiferi, conservati in diversi musei e molti dei quali non accessibili al pubblico nel corso delle visite ai musei stessi.</p>
 <p>Come ha ricordato <a href="https://physicsworld.com/a/spectacular-scans-of-thousands-of-vertebrate-specimens-released/"><strong>Michael Banks</strong> su <em>Physics World</em></a>, lo studio ha portato all’attenzione dei ricercatori alcune sorprese, come la scoperta che le rane hanno perso e riguadagnato i denti in svariate occasioni nel corso della loro storia evolutiva!</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>SKAO e i misteri della luce invisibile</title>
-        <author>
-            <name>ulaulaman</name>
-        </author>
-        <link href="https://ulaulaman.github.io/pensierini/skao-e-i-misteri-della-luce-invisibile.html"/>
-        <id>https://ulaulaman.github.io/pensierini/skao-e-i-misteri-della-luce-invisibile.html</id>
-        <media:content url="https://ulaulaman.github.io/pensierini/media/posts/17/AstroEdu-2404-SKAO-invisible-light.jpg" medium="image" />
-            <category term="radio telescopi"/>
-            <category term="didattica"/>
-            <category term="astronomia"/>
-            <category term="astroEdu"/>
-            <category term="SKAO"/>
-
-        <updated>2024-03-14T12:50:51+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ulaulaman.github.io/pensierini/media/posts/17/AstroEdu-2404-SKAO-invisible-light.jpg" alt="SKAO and the mysteries of invisible light" />
-                    La nuova attività astroEDU per il mese di marzo, SKAO and the mysteries of invisible light (per ora disponibile solo in inglese) è una collezione&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://ulaulaman.github.io/pensierini/media/posts/17/AstroEdu-2404-SKAO-invisible-light.jpg" class="type:primaryImage" alt="SKAO and the mysteries of invisible light" /></p>
-                <p>La nuova attività astroEDU per il mese di marzo, <a href="http://astroedu.iau.org/en/activities/2404/skao-and-the-mysteries-of-invisible-light/"><em>SKAO and the mysteries of invisible light</em></a> (per ora disponibile solo in inglese) è una collezione di attività per capire come esista della luce oltre quella che gli esseri umani sono in grado di vedere con il loro occhi, e come questi tipi di luce invisibile forniscono agli astronomi un nuovo modo di vedere l’Universo. Usando gli strumenti di laboratorio, gli studenti sperimenteranno la luce infrarossa, rileveranno l’esistenza delle onde radio, e comprenderanno i principi di base delle collezioni di segnali e del trasferimento dei dati dai telescopi. Inoltre impareranno come tutto ciò sia collegato allo Square Kilometre Array Observatory (SKAO), il più grande radio telescopio del mondo, attualmente in costruzione in aree remote del Sud Africa e dell’Australia.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Pensierini dal webbe: Ritorno alle origini (o quasi)</title>
-        <author>
-            <name>ulaulaman</name>
-        </author>
-        <link href="https://ulaulaman.github.io/pensierini/pensierini-dal-webbe-ritorno-alle-origini.html"/>
-        <id>https://ulaulaman.github.io/pensierini/pensierini-dal-webbe-ritorno-alle-origini.html</id>
-            <category term="presentazioni"/>
-            <category term="blog"/>
-
-        <updated>2024-03-12T02:28:43+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Dopo un lungo e duro lavoro ho finalmente importato su questo blogghetto tutti i micropost pubblicati in giro per il fediverso, per lo più finiti&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Dopo un lungo e duro lavoro ho finalmente importato su questo <em>blogghetto</em> tutti i <em>micropost</em> pubblicati in giro per il <em>fediverso</em>, per lo più finiti su feddit attraverso i due principali <em>account</em> quello su feddit, appunto, e quello su kbin. A questi ho anche aggiunto i <em>micropost</em> pubblicati tramite eduinaf e il suo <em>account</em> federato realizzato con il <em>plugin wordpress</em> dedicato allo scopo. Le difficoltà sono state dovute al coordinare l’id dei <em>post</em> con la loro uscita cronologica, ma alla fine mi ritrovo con una <em>dashboard</em> tutto sommato in ordine.</p>
-<p>La cosa bella di questo <em>blogghetto</em>, però, è che sto realizzando l’<em>hosting</em> su github usando un <em>software</em>, <a href="https://getpublii.com/">Publii</a>: in qualche modo è un po’ come tornare alle origini, visto che la prima incarnazione del <a href="https://dropseaofulaula.blogspot.com/">mio blog</a> era realizzata proprio con un <em>software</em> che, in quel caso, pubblicava direttamente sul sito FTP messomi a disposizione dal mio <em>provider</em> internet dell’epoca.</p>
-<p>Una specie di ritorno alle origini!</p>
 
             ]]>
         </content>
