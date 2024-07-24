@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://ulaulaman.github.io/pensierini/galassie-dalla-terra.html",
+            "url": "https://ulaulaman.github.io/pensierini/galassie-dalla-terra.html",
+            "title": "Galassie dalla Terra",
+            "summary": "ESO 510-G13, una curiosa galassia lenticolare a circa 150 milioni di anni luce da noi, in direzione della costellazione dell’Idra. Spicca il rigonfiamento centrale della&hellip;",
+            "content_html": "<p><a href=\"https://postimg.cc/kRPLkmPL\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://i.postimg.cc/zvy5HztD/INAF-VST-ESO510-G13-lowres.png\" alt=\"INAF-VST-ESO510-G13-lowres.png\"  data-is-external-image=\"true\"></figure></a></p>\n<blockquote>\n<p>ESO 510-G13, una curiosa galassia lenticolare a circa 150 milioni di anni luce da noi, in direzione della costellazione dell’Idra. Spicca il rigonfiamento centrale della galassia, su cui si staglia la silhouette scura del disco di polvere visto di taglio, che ne oscura parte della luce. La forma distorta del disco ricorda vagamente una S rovesciata, indice del passato turbolento di ESO 510-G13, che potrebbe aver acquisito la sua attuale conformazione a seguito di una collisione con un’altra galassia. Nell’angolo in basso a destra, tra le tantissime stelle della Via Lattea disseminate nell’immagine, si distingue anche una coppia di galassie a spirale a circa 250 milioni di anni luce da noi.</p>\n</blockquote>\n<p><a href=\"https://postimg.cc/vD3Z5q7b\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://i.postimg.cc/02qKRhbM/INAF-VST-HCG90-lowres.png\" alt=\"INAF-VST-HCG90-lowres.png\"  data-is-external-image=\"true\"></figure></a></p>\n<blockquote>\n<p>L’Hickson Compact Group 90 (HGC 90) è un piccolo gruppo formato da quattro galassie, che dista circa 100 milioni di anni luce di distanza dalla Terra, verso la costellazione del Pesce Australe. Le due macchie di luce rotondeggianti vicino al centro dell’immagine sono le galassie ellittiche NGC 7173 e NGC 7176. La striscia luminosa che si biforca e collega queste due galassie è la terza componente del gruppo, la galassia a spirale NGC 7174: la sua forma singolare tradisce l’interazione in corso tra i tre corpi celesti, che ha strappato loro stelle e gas, rimescolandone la distribuzione. Un alone di luce diffusa avvolge le tre galassie. Non sembra partecipare a questa danza celeste la quarta galassia appartenente al gruppo, NGC 7172, visibile nella parte superiore dell’immagine: si tratta di una galassia il cui nucleo, solcato da scure nubi di polvere, nasconde un buco nero supermassiccio che divora attivamente il materiale circostante.</p>\n</blockquote>\n<p><a href=\"https://postimg.cc/R3BWg3WB\"><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://i.postimg.cc/bvG1Nk8s/INAF-VST-A1689-lowres.png\" alt=\"INAF-VST-A1689-lowres.png\"  data-is-external-image=\"true\"></figure></a></p>\n<blockquote>\n<p>L’ammasso di galassie Abell 1689, che si può osservare nella costellazione della Vergine, contiene più di duecento galassie, visibili per lo più come macchie di colore giallo-arancio, la cui luce ha viaggiato per circa due miliardi di anni prima di raggiungere il VST. L’enorme massa, che oltre alle galassie comprende anche enormi quantità di gas caldo e della misteriosa materia oscura, deforma lo spazio-tempo in prossimità dell’ammasso, che funge così da “lente gravitazionale” sulle galassie ancora più lontane, amplificando la loro luce e creando immagini distorte, in modo non dissimile da quanto farebbe una comune lente ottica. Alcune di queste galassie si possono distinguere sotto forma di puntini e di minuscoli trattini dalla forma leggermente curva, in particolare intorno alle regioni centrali dell’ammasso.</p>\n</blockquote>\n<p>Le tre foto sono state rilasciate dal <a href=\"https://www.eso.org/public/teles-instr/surveytelescopes/vst.html\"><em>VLT Survey Telescope</em></a></p>\n",
+            "author": {
+                "name": "ulaulaman"
+            },
+            "tags": [
+                   "astronomy",
+                   "VLT",
+                   "INAF"
+            ],
+            "date_published": "2024-07-24T16:40:00+02:00",
+            "date_modified": "2024-07-24T16:41:45+02:00"
+        },
+        {
             "id": "https://ulaulaman.github.io/pensierini/universo-a-infrarosso-anello-di-einstein.html",
             "url": "https://ulaulaman.github.io/pensierini/universo-a-infrarosso-anello-di-einstein.html",
             "title": "Zoom nell&#x27;universo a infrarosso con un anello di Einstein",
@@ -176,25 +193,6 @@
             ],
             "date_published": "2024-03-15T12:24:47+01:00",
             "date_modified": "2024-03-15T17:38:27+01:00"
-        },
-        {
-            "id": "https://ulaulaman.github.io/pensierini/openvertebrate-i-vertebrati-come-non-li-avete-mai-visti.html",
-            "url": "https://ulaulaman.github.io/pensierini/openvertebrate-i-vertebrati-come-non-li-avete-mai-visti.html",
-            "title": "openVertebrate: I vertebrati come non li avete mai visti",
-            "summary": "openVertebrate (oVert) è un interessante progetto, finanziato dalla National Science Foundation statunitense, che in cinque anni, dal 2017 al 2023, ha realizzato alcune spettacolari ricostruzioni&hellip;",
-            "content_html": "<p><a href=\"https://www.floridamuseum.ufl.edu/overt/\"><em>openVertebrate</em></a> (oVert) è un interessante progetto, finanziato dalla <em>National Science Foundation</em> statunitense, che in cinque anni, dal 2017 al 2023, ha realizzato alcune spettacolari ricostruzioni 3D di vertebrati <a href=\"https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biad120/7615104\">utilizzando la tomografia computerizzata</a>.</p>\n<p>Questa gran mole di immagini sono ora <a href=\"https://www.floridamuseum.ufl.edu/digital-lab/\">liberamente disponibili</a>. La collezione include anfibi, rettili, pesci e mammiferi, conservati in diversi musei e molti dei quali non accessibili al pubblico nel corso delle visite ai musei stessi.</p>\n<p>Come ha ricordato <a href=\"https://physicsworld.com/a/spectacular-scans-of-thousands-of-vertebrate-specimens-released/\"><strong>Michael Banks</strong> su <em>Physics World</em></a>, lo studio ha portato all’attenzione dei ricercatori alcune sorprese, come la scoperta che le rane hanno perso e riguadagnato i denti in svariate occasioni nel corso della loro storia evolutiva!</p>\n",
-            "image": "https://ulaulaman.github.io/pensierini/media/posts/18/06-03-24-CT-specimens-small.jpg",
-            "author": {
-                "name": "ulaulaman"
-            },
-            "tags": [
-                   "vertebrati",
-                   "scienza",
-                   "evoluzione",
-                   "biofisica"
-            ],
-            "date_published": "2024-03-15T10:23:24+01:00",
-            "date_modified": "2024-03-15T14:05:53+01:00"
         }
     ]
 }
