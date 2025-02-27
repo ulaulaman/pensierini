@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://ulaulaman.github.io/pensierini/sitemap.xml
